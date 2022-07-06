@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
 
+- 📄 You can call me Enemy number 1 of churn
+
 - 🔭 I’m currently working on [Negócios inteligente e indústria 4.0](https://www.linkedin.com/in/renatocmcruz/)
 
 - 🌱 I’m currently learning Pós-graduação Lato Sensu, MBA Executivo, Negócios Inteligentes e Indústria 4.0 on [FIA BUSINESS SCHOOL](https://fia.com.br/)
