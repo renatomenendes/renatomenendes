@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Renato Menendes </h1>
-<h3 align="center">Mais de 10 anos de experiência em dados, principalmente nas indústrias de Telecom, Viação Aérea, CallCenter orientando, treinando e dando suporte técnico às equipes de parceiros/cliente e em análise de dados;.</h3>
+<h3 align="center">Mais de 10 anos de experiência em dados, principalmente nas indústrias de Telecom, Viação Aérea, CallCenter orientando, treinando e dando suporte técnico às equipes de parceiros/cliente e em análise de dados.
+  
+Hoje:
+Atuo como Solutions Analytics na NTT Data realizando interface com clientes para entendimento de necessidades, proposição de entregáveis e gestão dos projetos, garantindo a alta qualidade das entregas das áreas; Articulação com equipe interna, lideranças e áreas parceiras para remoção de barreiras e construção de facilitadores para a entrega de projetos: infraestrutura, arquitetura de dados, ferramentas, treinamentos e dando suporte aos times de planejamento na entrega dos números em ferramentas de Data visualization ou menos apresentação convencional, ajudo da aplicação de Metodologias como Lean, Kanban, SixSigma, KPIs, oriento quanto aos formatos de apresentação do dado, bem como forneço análise estatísticas dos resultados;
+
+No Passado:
+Já liderei times multidisciplinares e geograficamente dispersos das áreas de BI e Client Insights. Orientação e apoio aos times no desenvolvimento de entregáveis, criação de processos, fluxo de dados/informações e interface com áreas parceiras. Suporte constante aos times liderados garantindo o melhor aproveitamento dos perfis, consumo otimizado de horas contratadas, qualidade dos entregáveis e andamento dos projetos.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
 
