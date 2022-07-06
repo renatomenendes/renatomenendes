@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Negócios inteligente e indústria 4.0](https://www.linkedin.com/in/renatocmcruz/)
 
-- 🌱 I’m currently learning **Pós-graduação Lato Sensu, MBA Executivo, Negócios Inteligentes e Indústria 4.0.(https://fia.com.br/)
+- 🌱 I’m currently learning Pós-graduação Lato Sensu, MBA Executivo, Negócios Inteligentes e Indústria 4.0 on [FIA BUSINESS SCHOOL](https://fia.com.br/)
 
 - 👯 I’m looking to collaborate on [NTTDATA](https://nttdata-solutions.com/br/)
 
