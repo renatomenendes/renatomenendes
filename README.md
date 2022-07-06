@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renato Menendes </h1>
-<h3 align="center">Gerar insights para alimentar o time e gerar tomada de decisão de negócio.</h3>
+<h3 align="center">Mais de 10 anos de experiência em dados, principalmente nas indústrias de Telecom, Viação Aérea, CallCenter orientando, treinando e dando suporte técnico às equipes de parceiros/cliente e em análise de dados;.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
 
