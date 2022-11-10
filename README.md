@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Renato Menendes </h1>
-<h3 align="center">Mais de 10 anos de experiência em dados, principalmente nas indústrias de Telecom, Viação Aérea, CallCenter orientando, treinando e dando suporte técnico às equipes de parceiros/cliente e em análise de dados.
-  
-Hoje:
-Atuo como Solutions Analytics na NTT Data realizando interface com clientes para entendimento de necessidades, proposição de entregáveis e gestão dos projetos, garantindo a alta qualidade das entregas das áreas; Articulação com equipe interna, lideranças e áreas parceiras para remoção de barreiras e construção de facilitadores para a entrega de projetos: infraestrutura, arquitetura de dados, ferramentas, treinamentos e dando suporte aos times de planejamento na entrega dos números em ferramentas de Data visualization ou menos apresentação convencional, ajudo da aplicação de Metodologias como Lean, Kanban, SixSigma, KPIs, oriento quanto aos formatos de apresentação do dado, bem como forneço análise estatísticas dos resultados;
+<h3 align="center">
+I have over 10 years of experience working with structured data and management information, mainly in the Telecom, Air Travel, CallCenter industries, guiding, training and providing technical support to partner/customer teams and in data analysis.
 
-No Passado:
-Já liderei times multidisciplinares e geograficamente dispersos das áreas de BI e Client Insights. Orientação e apoio aos times no desenvolvimento de entregáveis, criação de processos, fluxo de dados/informações e interface com áreas parceiras. Suporte constante aos times liderados garantindo o melhor aproveitamento dos perfis, consumo otimizado de horas contratadas, qualidade dos entregáveis e andamento dos projetos.
+Today I work as Solutions Analytics at NTT Data, interfacing with clients to understand their needs, propose deliverables and manage projects, ensuring the high quality of deliveries in the areas; Articulation with internal team, leaders and partner areas to remove barriers and build facilitators for project delivery: infrastructure, data architecture, tools, training and supporting planning teams in delivering numbers in Data visualization tools or less conventional presentation, help with the application of Methodologies such as Lean, Kanban, SixSigma, KPIs, guide on the data presentation formats, as well as provide statistical analysis of the results;
+
+But in the Past: I have led multidisciplinary and geographically dispersed teams in the areas of BI and Client Insights. Guidance and support to teams in the development of deliverables, creation of processes, data/information flow and interface with partner areas. Constant support to the led teams, ensuring the best use of profiles, optimized consumption of contracted hours, quality of deliverables and project progress.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
