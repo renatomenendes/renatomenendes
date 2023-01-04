@@ -1,10 +1,22 @@
-<h1 align="center">Hi 👋, I'm Renato Menendes </h1>
+<h1 align="center">Hi 👋, I'm Renato Menendes Bem-vindo(a) ao meu perfil!</h1>
 <h3 align="center">
-I have over 10 years of experience working with structured data and management information, mainly in the Telecom, Air Travel, CallCenter industries, guiding, training and providing technical support to partner/customer teams and in data analysis.
 
-Today I work as Solutions Analytics at NTT Data, interfacing with clients to understand their needs, propose deliverables and manage projects, ensuring the high quality of deliveries in the areas; Articulation with internal team, leaders and partner areas to remove barriers and build facilitators for project delivery: infrastructure, data architecture, tools, training and supporting planning teams in delivering numbers in Data visualization tools or less conventional presentation, help with the application of Methodologies such as Lean, Kanban, SixSigma, KPIs, guide on the data presentation formats, as well as provide statistical analysis of the results;
 
-But in the Past: I have led multidisciplinary and geographically dispersed teams in the areas of BI and Client Insights. Guidance and support to teams in the development of deliverables, creation of processes, data/information flow and interface with partner areas. Constant support to the led teams, ensuring the best use of profiles, optimized consumption of contracted hours, quality of deliverables and project progress.
+Sou Renato Menendes, Resiliente, Consistente, Original, Pragmático, Colaborativo e Engajado, sou mais do que meu currículo pode demonstrar!
+
+Carreira focada no desenvolvimento de áreas de Business Intelligence, seja liderando, seja apoiando. Experiência em apoiar na definição dos modelos, templates, tecnologia, estrutura do produto, ISSUES ou outras demandas, sejam de origem corretiva, evolutiva ou manutenção operacional. Estabelecer, aplicar e gerenciar os indicadores de qualidade e desempenho da operação com reporte às diretorias e outros executivos da operação;
+
+Possuo densa experiência em realizando interface com clientes para entendimento de necessidades, proposição de entregáveis e gestão dos projetos data driver, garantindo a alta qualidade das entregas; Articulação e/ou lideranças de equipes internas e áreas parceiras para remoção de barreiras e construção de facilitadores para a entrega de projetos que envolva infraestrutura, arquitetura de dados, ferramentas, treinamentos e dando suporte aos times de planejamento na entrega dos números em ferramentas de Data Visualization. Aplicação de Metodologias Lean, Kanban, Six Sigma, KPIs. Eu estou sempre aprendendo buscando pequenas aprendizagens, novos skills, saindo da minha zona de conforto, sempre olhando para o futuro, mantendo meu raciocínio adaptativo e buscando ser capaz de me resignificar frente a todos os novos cenários e capturando as capacidades essenciais que vêm sendo promulgadas pelas empresas.
+
+Organizado, metódico, pensamento crítico, facilitador no uso dos dados; Elevada capacidade de resolução de problemas complexos, capacidade de gerenciamento da carga cognitiva, inteligência social, inteligência Emocional; Movido por inovação, acredito que não é porque algo sempre foi feito de uma maneira e deu certo, que deve continuar assim. Para mim, por menor que seja, tudo está sujeito a inovação e melhoria.
+
+Bacharel em Administração de Empresas Universidade Presbiteriana Mackenzie;
+Pós Graduação em Ciência de Dados e Big Data Analytics Universidade Estácio de Sá;
+Pós Graduação em Negócios Inteligentes e Indústria 4.0 - FIA Business School;
+Green Belt Six Sigma Escola EDTI
+
+Obrigada pela visita.
+Renato_Data@engineer.com
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
