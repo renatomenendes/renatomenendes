@@ -15,8 +15,9 @@ Pós Graduação em Ciência de Dados e Big Data Analytics Universidade Estácio
 Pós Graduação em Negócios Inteligentes e Indústria 4.0 - FIA Business School;
 Green Belt Six Sigma Escola EDTI
 
-Obrigada pela visita.
-Renato_Data@engineer.com
+Obrigado pela visita.
+Renato_Data@engineer.com.
+ 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
