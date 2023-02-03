@@ -28,10 +28,10 @@ Renato_Data@engineer.com.
 
 - 🌱 I’m currently learning Pós-graduação Lato Sensu, MBA Executivo, Negócios Inteligentes e Indústria 4.0 on [FIA BUSINESS SCHOOL](https://fia.com.br/)
 
-- 👯 I am currently working at the Company on [NTTDATA](https://nttdata-solutions.com/br/)
+- 👯 I am currently working at the Company on [V I B R A](https://www.vibraenergia.com/br/)
 
 - 🤝 
-I work as Solutions Analytics at NTT Data, interfacing with customers to understand needs, propose deliverables and project management with [NTTDATA](https://nttdata-solutions.com/br/)
+I work as Data SCIENCE, interfacing with customers to understand needs, propose deliverables and project management with [V I B R A](https://www.vibraenergia.com/br/)
 
 - 👨‍💻 All of my projects are available at [github.com/renatomenendes/](github.com/renatomenendes/)
 
