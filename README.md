@@ -1,11 +1,9 @@
-<h1 align="center">
- Hi 👋 Bem-vindo ao Meu Perfil GitHub! 👋 >
-<h3 align="center">
+<h1 align="center">Hi 👋 Bem-vindo ao Meu Perfil GitHub! 👋</h1>
+<h3 align="center">Renato Cruz - Data Science & Business Intelligence Leader</h3>
 
-## Renato Cruz - Data Science & Business Intelligence Leader
-
-### 🌟 Sobre Mim
+<p align="center">
 Olá, sou Renato Cruz, um entusiasta da ciência de dados com uma trajetória robusta no universo dos negócios e análise de dados. Minha carreira é marcada por uma paixão constante por inovação e melhoria contínua, onde cada desafio é visto como uma oportunidade de crescimento.
+</p>
 
 🎓 **Formação Acadêmica:**
 - **Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie.
