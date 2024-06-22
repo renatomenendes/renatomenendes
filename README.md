@@ -1,22 +1,54 @@
 <h1 align="center">Hi 👋 Bem-vindo(a) ao meu perfil!</h1>
 <h3 align="center">
 
+# Bem-vindo ao Meu Perfil GitHub! 👋
 
-Sou Renato Menendes, Resiliente, Consistente, Original, Pragmático, Colaborativo e Engajado, sou mais do que meu currículo pode demonstrar!
+## Renato Cruz - Data Science & Business Intelligence Leader
 
-Carreira focada no desenvolvimento de áreas de Business Intelligence, seja liderando, seja apoiando. Experiência em apoiar na definição dos modelos, templates, tecnologia, estrutura do produto, ISSUES ou outras demandas, sejam de origem corretiva, evolutiva ou manutenção operacional. Estabelecer, aplicar e gerenciar os indicadores de qualidade e desempenho da operação com reporte às diretorias e outros executivos da operação;
+### 🌟 Sobre Mim
+Olá, sou Renato Cruz, um entusiasta da ciência de dados com uma trajetória robusta no universo dos negócios e análise de dados. Minha carreira é marcada por uma paixão constante por inovação e melhoria contínua, onde cada desafio é visto como uma oportunidade de crescimento.
 
-Possuo densa experiência em realizando interface com clientes para entendimento de necessidades, proposição de entregáveis e gestão dos projetos data driver, garantindo a alta qualidade das entregas; Articulação e/ou lideranças de equipes internas e áreas parceiras para remoção de barreiras e construção de facilitadores para a entrega de projetos que envolva infraestrutura, arquitetura de dados, ferramentas, treinamentos e dando suporte aos times de planejamento na entrega dos números em ferramentas de Data Visualization. Aplicação de Metodologias Lean, Kanban, Six Sigma, KPIs. Eu estou sempre aprendendo buscando pequenas aprendizagens, novos skills, saindo da minha zona de conforto, sempre olhando para o futuro, mantendo meu raciocínio adaptativo e buscando ser capaz de me resignificar frente a todos os novos cenários e capturando as capacidades essenciais que vêm sendo promulgadas pelas empresas.
+🎓 **Formação Acadêmica:**
+- **Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie.
+- **Pós-graduação em Ciência de Dados e Big Data Analytics** - Universidade Estácio de Sá.
+- **Pós-graduação em Negócios Inteligentes e Indústria 4.0** - FIA Business School.
 
-Organizado, metódico, pensamento crítico, facilitador no uso dos dados; Elevada capacidade de resolução de problemas complexos, capacidade de gerenciamento da carga cognitiva, inteligência social, inteligência Emocional; Movido por inovação, acredito que não é porque algo sempre foi feito de uma maneira e deu certo, que deve continuar assim. Para mim, por menor que seja, tudo está sujeito a inovação e melhoria.
+🏆 **Certificações:**
+- **Green Belt Six Sigma**
+- **Certificado em Pricing Strategy Optimization**
+- **Data Science** pela IBM/Coursera.
 
-Bacharel em Administração de Empresas Universidade Presbiteriana Mackenzie;
-Pós Graduação em Ciência de Dados e Big Data Analytics Universidade Estácio de Sá;
-Pós Graduação em Negócios Inteligentes e Indústria 4.0 - FIA Business School;
-Green Belt Six Sigma Escola EDTI
+### 🚀 Minha Jornada Profissional
+Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
 
-Obrigado pela visita.
-Renato_Data@engineer.com.
+**Senior Data Scientist** - **Vibra Energia**
+- Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
+
+**Consultor de Engenharia de Software** - **NTT DATA Europe & Latam**
+- Responsável pela estratégia de visualização de dados e pela promoção de uma cultura orientada por dados, supervisionando todas as fases de análise de dados, desde a coleta até a entrega de insights estratégicos.
+
+### 🎯 Objetivo de Carreira
+Como aspirante a **Gerente de Data Science & Insights**, estou focado em liderar equipes multidisciplinares para traduzir dados complexos em estratégias acionáveis, visando impulsionar o desempenho e a inovação organizacional.
+
+### 🔗 Conecte-se Comigo
+- [LinkedIn](https://www.linkedin.com/in/renatocmcruz/)
+- [Twitter](https://twitter.com/sir_menendes)
+
+### 💼 Experiência Profissional Detalhada
+Para mais informações sobre minha experiência profissional, incluindo projetos detalhados e competências técnicas, visite [meu perfil no LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
+
+### 🛠️ Ferramentas e Tecnologias
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### ✍️ Blog & Artigos
+Confira meus artigos sobre ciência de dados e inovação em negócios no [LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
+
+### 📫 Como Me Contatar
+- 📧 Email: **Renato_Data@engineer.com**
  
 </h3>
 
