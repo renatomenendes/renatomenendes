@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋 Bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">Hi 👋 Bem-vindo ao Meu Perfil GitHub! 👋 /h1>
 <h3 align="center">
-
-# Bem-vindo ao Meu Perfil GitHub! 👋
 
 ## Renato Cruz - Data Science & Business Intelligence Leader
 
