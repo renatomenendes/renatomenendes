@@ -8,7 +8,7 @@ Olá, sou Renato Cruz, um entusiasta da ciência de dados com uma trajetória ro
 🎓 **Formação Acadêmica:**
 - **Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie.
 - **Pós-graduação em Ciência de Dados e Big Data Analytics** - Universidade Estácio de Sá.
-- **Pós-graduação em Negócios Inteligentes e Indústria 4.0** - FIA Business School.
+- **[MBA Executivo em Inteligência Artificial** - Faculdade Unyleya](https://www.linkedin.com/in/renatocmcruz/overlay/1635551564809/single-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk).
 
 🏆 **Certificações:**
 - **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
