@@ -5,12 +5,12 @@
 Olá, sou Renato Cruz, um entusiasta da ciência de dados com uma trajetória robusta no universo dos negócios e análise de dados. Minha carreira é marcada por uma paixão constante por inovação e melhoria contínua, onde cada desafio é visto como uma oportunidade de crescimento.
 </p>
 
-🎓 **Formação Acadêmica:**
-- **Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie.
-- **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](https://www.linkedin.com/in/renatocmcruz/details/education/614498417/multiple-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk&treasuryMediaId=1635513657494).
-- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](https://www.linkedin.com/in/renatocmcruz/overlay/1635551564809/single-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk).
+🎓 ***Formação Acadêmica:***
+- **[Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie](https://www.linkedin.com/in/renatocmcruz/details/education/1568586189414/single-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk)**.
+- **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](https://www.linkedin.com/in/renatocmcruz/details/education/614498417/multiple-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk&treasuryMediaId=1635513657494)**.
+- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](https://www.linkedin.com/in/renatocmcruz/overlay/1635551564809/single-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk)**.
 
-🏆 **Certificações:**
+🏆 ***Certificações:***
 - **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
 - **[Certificado em Pricing Strategy Optimization](https://www.linkedin.com/in/renatocmcruz/details/certifications/)**.
 - **[Data Science pela IBM/Coursera](https://www.credly.com/badges/a2416110-ce8c-47b7-8c94-149f068fdf79/linked_in_profile)**.
@@ -20,10 +20,10 @@ Olá, sou Renato Cruz, um entusiasta da ciência de dados com uma trajetória ro
 ### 🚀 Minha Jornada Profissional
 Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
 
-**Senior Data Scientist** - **Vibra Energia**
+**Senior Data Scientist** - ***Vibra Energia***
 - Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
 
-**Consultor de Engenharia de Software** - **NTT DATA Europe & Latam**
+**Consultor de Engenharia de Software** - ***NTT DATA Europe & Latam***
 - Responsável pela estratégia de visualização de dados e pela promoção de uma cultura orientada por dados, supervisionando todas as fases de análise de dados, desde a coleta até a entrega de insights estratégicos.
 
 ### 🎯 Objetivo de Carreira
