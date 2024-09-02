@@ -32,6 +32,7 @@ Como aspirante a **Gerente de Data Science & Insights**, estou focado em liderar
 ### 🔗 Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/renatocmcruz/)
 - [Twitter](https://twitter.com/sir_menendes)
+- [Facebook](https://www.facebook.com/Sr.Menendes/)
 
 ### 💼 Experiência Profissional Detalhada
 Para mais informações sobre minha experiência profissional, incluindo projetos detalhados e competências técnicas, visite [meu perfil no LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
