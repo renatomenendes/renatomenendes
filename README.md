@@ -64,6 +64,13 @@ Confira meus artigos sobre ciência de dados e inovação em negócios no [Linke
 
 ### 📫 Como Me Contatar
 - 📧 Email: **Renato_Data@engineer.com**
+- 📧 Email: **renato_datascientist@consultant.com**
+- 📧 Email: **renato.c.m.cruz@me.com**
+- 📧 Email: **renatomenendes@yahoo.com.br**
+- 📧 Email: **priorado_sao_tiago@mail.com**
+- 📧 Email: **gpfedericianibrasile@gmail.com**
+- 📧 Email: **renatocruz72@gmail.com**
+- 📧 Email: **renato.cruz@hotmail.com**
  
 </h3>
 
