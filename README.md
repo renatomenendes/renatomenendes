@@ -2,7 +2,22 @@
 <h3 align="center">Renato Cruz - Data Science & Business Intelligence Leader</h3>
 
 <p align="center">
-Olá, sou Renato Cruz, um entusiasta da ciência de dados com uma trajetória robusta no universo dos negócios e análise de dados. Minha carreira é marcada por uma paixão constante por inovação e melhoria contínua, onde cada desafio é visto como uma oportunidade de crescimento.
+Saudações a todos,
+
+Sou Renato Cruz, e gostaria de compartilhar um pouco sobre minha trajetória e ambições no universo dos negócios e da ciência de dados.
+
+Minha formação acadêmica teve início na Universidade Presbiteriana Mackenzie, onde concluí minha graduação em Administração de Empresas. No entanto, isso foi apenas o começo. Buscando expandir meu repertório, mergulhei em pós-graduações, especializando-me em Ciência de Dados e Big Data Analytics na Estácio e, posteriormente, explorando Negócios Inteligentes e Indústria 4.0 na FIA Business School.
+
+Meu compromisso com a excelência me levou a buscar certificações de renome. Sou detentor do título Green Belt Six Sigma, certificado em Pricing Strategy Optimization, e também em Data Science pela IBM/Coursera. Essas credenciais refletem minha paixão e dedicação à aprendizagem e inovação.
+
+Durante quase duas décadas, dediquei-me a resolver desafios complexos em empresas como Oi, Serede, Grupo Contax, Azul Linhas Aéreas Brasileiras, entre outras. Em todas, concentrei-me na arquitetura e metodologia de dados, tornando-me uma peça-chave na transformação e otimização de processos.
+
+O que me define não é apenas meu currículo, mas minha filosofia: acredito no poder da inovação e da melhoria contínua. Vejo cada obstáculo como uma oportunidade, cada desafio como uma chance de crescimento.
+
+Objetivo de Carreira:
+Tendo construído uma base sólida em análise e estratégia de dados, meu objetivo agora é me tornar Gerente de Data Science & Insights. Anseio por liderar equipes talentosas, traduzindo dados complexos em insights acionáveis que podem remodelar e revigorar estratégias de negócios. Com minha extensa experiência e paixão pela inovação, estou preparado para guiar projetos de análise de ponta a ponta, colaborar interdepartamentalmente e entregar soluções de dados excepcionais.
+
+Em resumo, estou comprometido em conduzir a transformação digital, impulsionando a inovação e agregando valor contínuo. Estou ansioso para colaborar, aprender e compartilhar, enquanto juntos moldamos o futuro dos negócios através da ciência de dados.
 </p>
 
 🎓 ***Formação Acadêmica:***
