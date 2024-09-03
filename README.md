@@ -28,7 +28,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 
 🏆 ***Certificações:***
 - **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
-- **[Certificado em Pricing Strategy Optimization](https://www.linkedin.com/in/renatocmcruz/details/certifications/)**.
+- **[Certificado em Pricing Strategy Optimization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)**.
 - **[Data Science pela IBM/Coursera](https://www.credly.com/badges/a2416110-ce8c-47b7-8c94-149f068fdf79/linked_in_profile)**.
 - **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**.
 - **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**.
