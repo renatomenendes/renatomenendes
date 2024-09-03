@@ -31,29 +31,30 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - **[Data Science pela IBM/Coursera](https://www.credly.com/badges/a2416110-ce8c-47b7-8c94-149f068fdf79/linked_in_profile)**.
 - **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**.
 - **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**.
-# Diplomas e Certificações
 
-## Yale University
+## Diplomas e Certificações
+
+### Yale University
 - [Yale University - Financial Markets](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
 
-## Columbia University
+### Columbia University
 - [Columbia University - Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
 
-## University of Virginia & BCG
+### University of Virginia & BCG
 - [University of Virginia & BCG - Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
 - [University of Virginia & BCG - Customer Value in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Customer%20Value%20in%20Pricing%20Strategy%20-%20Coursera%20-%20BHMRRHDAE9DS.pdf)
 - [University of Virginia & BCG - Market and Competition in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Market%20and%20Competition%20in%20Pricing%20Strategy%20-%20Coursera%20-%20YM6BCMATCFVC.pdf)
 - [University of Virginia & BCG - Pricing Strategy Specialization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)
 - [University of Virginia & BCG - Pricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
 
-## Johns Hopkins University
+### Johns Hopkins University
 - [Johns Hopkins University - As Ferramentas do Cientista de Dados](Diplomas_Cursos/01-Cousera/Johns%20Hopkins%20University%20-%20As%20Ferramentas%20do%20Cientista%20de%20Dados%20-%20Coursera%20-%20B4WBSFJ5F3DB.pdf)
 
 ## Google
 - [GOOGLE - Design de UX - Coursera - FBCUKTT4S9NH](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20FBCUKTT4S9NH.pdf)
 - [GOOGLE - Design de UX - Coursera - HALMQHE5R4BZ](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20HALMQHE5R4BZ.pdf)
 
-## IBM - Coursera
+### IBM - Coursera
 - [IBM - Data Science - Certificado Profissional](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
 - [IBM - Data Science Specialization](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20Specialization%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
 - [IBM - Applied Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Applied%20Data%20Science%20-%20Coursera%20-%206SXMWARGTD8W.pdf)
@@ -76,60 +77,60 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [IBM - Specialized Models Time Series](Diplomas_Cursos/01-Cousera/IBM%20-%20Specialized%20Models%20Time%20Series%20-%20Coursera%20-%20HWNJ6BG5TG6G.pdf)
 - [IBM - Tools for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Tools%20for%20Data%20Science%20-%20Coursera%20-%2039PZ4UWDKXZU.pdf)
 
-## Microsoft
+### Microsoft
 - [Microsoft - MSSQL2073](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_MSSQL2073_Renato_Cruz.jpeg)
 - [Microsoft - MSSQL2780](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_MSSQL2780_Renato_Cruz.jpeg)
 - [Microsoft - MSSQL_6234](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_MSSQL_6234_Renato_Cruz.jpeg)
 - [Microsoft - MSSQL_6235](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_MSSQL_6235_Renato_Cruz.jpeg)
 - [Microsoft - TSQL2000](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_TSQL2000_Renato_Cruz.jpeg)
 
-## Alberta University - Coursera
+### Alberta University - Coursera
 - [Alberta university - Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
 
-## Eindhoven University of Technology (TUe) - Coursera
+### Eindhoven University of Technology (TUe) - Coursera
 - [Eindhoven University of Technology (TUe) - Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
 
-## FIA - Coursera
+### FIA - Coursera
 - [FIA - Gestão de Sucesso do Cliente - 4Y59YM4RFWNZ](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
 - [FIA - Gestão de Sucesso do Cliente - J3PSE4R4V552](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
 - [FIA - Gestão de Sucesso do Cliente - NMT2PMKMBFEW](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
 - [FIA - Gestão de Sucesso do Cliente - V5K4UWW4SKGH](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
 - [FIA - Gestão de Sucesso do Cliente - WKZ5Y93B6F9D](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
 
-## DeepLearning.AI - Coursera
+### DeepLearning.AI - Coursera
 - [DeepLearning.AI - Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
 
-## SAS - Coursera
+### SAS - Coursera
 - [SAS - SAS Programming](Diplomas_Cursos/01-Cousera/SAS%20-%20SAS%20Programming%20-%20Coursera%20-%20T29GHQ3ALV46.pdf)
 - [SAS - Structured Query Language](Diplomas_Cursos/01-Cousera/SAS%20-%20Structured%20Query%20Language%20-%20Coursera%20-%20EEYSKJD57GRA.pdf)
 
-## Macquarie University - Coursera
+### Macquarie University - Coursera
 - [Macquarie University - Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
 - [Macquarie University - Storytelling and influencing Communicate with impact](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Storytelling%20and%20influencing%20Communicate%20with%20impact%20-%20Coursera%20-%20D38W2VH2HY7N.pdf)
 
-## University of São Paulo (USP) - Coursera
+### University of São Paulo (USP) - Coursera
 - [USP - Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
 
-## Unileya - MBA Executivo em Inteligência Artificial
+### Unileya - MBA Executivo em Inteligência Artificial
 - [Unyleya - MBA Executivo em Inteligência Artificial](Diplomas_Especializacao/UNileya%20-%20MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-%201701223691571.jpeg)
 
-## Faculdade Mackenzie
+### Faculdade Mackenzie
 - [FACULDADE MACKENZIE - Bacharelado em Administração](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)
 
-## SENAC
+### SENAC
 - [SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)
 
-## Estácio
+### Estácio
 - [Unyleya - MBA Executivo em Bigdata & Analitycs](Diplomas_Especializacao/Est%C3%A1cio%20-%20Bigdata%20-%20CertificadoDeConclusao.pdf)
 
-## FIAP
+### FIAP
 - [FIAP - Big Data & Analytics](Diplomas_Cursos/06-FIAP/FIAP%20-%20Big%20Data%20&%20Analytics%20-%2062d9abab1db163f3b0b5ca93699e12b2.png)
 - [FIAP - Blockchain Advanced](Diplomas_Cursos/06-FIAP/FIAP%20-%20Blockchain%20Advanced%20-%20856b6b2a3f7d996a4530addad1679965.png)
 - [FIAP - Customer Experience Management](Diplomas_Cursos/06-FIAP/FIAP%20-%20Customer%20Experience%20Management%20-%20fbc8712c11bbd1e93f1c35e789cdc440.png)
 - [FIAP - Soluções Tecnológicas Emergentes](Diplomas_Cursos/06-FIAP/FIAP%20-%20Solu%C3%A7%C3%B5es%20Tecnol%C3%B3gicas%20Emergentes%20-%2072b51f5ed80ce82214f649443cd33d86.png)
 - [FIAP - User Experience](Diplomas_Cursos/06-FIAP/FIAP%20-%20User%20Experience%20-%20e1124e69f9f0f31c8e0443236f83cea2.png)
 
-## Enap
+### Enap
 - [Enap - Rota_GestaoAgil](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20Rota_GestaoAgil.pdf)
 - [Enap - Gestor Ágil para Transformação Digital](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20GestorAgil_Renato%20Cesar%20Menendes%20Cruz_certificado.pdf)
 - [Enap - Desenvolvendo Times de Alta Performance](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20Desenvolvendo%20Times%20de%20Alta%20Performance.pdf)
@@ -142,7 +143,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [Enap - SCRUM](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20SCRUM.pdf)
 - [Enap - Ágil no contexto do serviço público](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20%C3%81gil%20no%20contexto%20do%20servi%C3%A7o%20p%C3%BAblico.pdf)
 
-## LinkedIn
+### LinkedIn
 - [Linkedin - A Linguagem Corporal da Lideranca](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20CertificadoDeConclusao_A%20Linguagem%20Corporal%20da%20Lideranca.pdf)
 - [Linkedin - A Visualizacao de Dados para Contar Historias](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20CertificadoDeConclusao_A%20Visualizacao%20de%20Dados%20para%20Contar%20Historias.pdf)
 - [Linkedin - Big Data e Inteligencia Artificial O Poder dos Dados](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20CertificadoDeConclusao_Big%20Data%20e%20Inteligencia%20Artificial%20O%20Poder%20dos%20Dados.pdf)
@@ -216,14 +217,14 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [Linkedin - Rota_GestaoProjetos](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20Rota_GestaoProjetos.pdf)
 - [Linkedin - Rotas_Aprendizagem_Linkedin](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20Rotas_Aprendizagem_Linkedin.pdf.pdf)
 
-## Alura
+### Alura
 - [Alura - Arquitetura de computadores](Diplomas_Cursos/02-Alura/Alura%20-%20Arquitetura%20de%20computadores.pdf)
 - [Alura - DOCKER CRIANDO E GERENCIANDO CONTAINERS](Diplomas_Cursos/02-Alura/Alura%20-%20DOCKER%20CRIANDO%20E%20GERENCIANDO%20CONTAINERS.pdf)
 - [Alura - Gerente Ágil - Metodologia Agile](Diplomas_Cursos/02-Alura/Alura%20-%20Gerente%20%C3%81gil%20-%20Metodologia%20Agile%20-%20b9efc30122be338a0e841a594d53d383.pdf)
 - [Alura - Linux Onboarding](Diplomas_Cursos/02-Alura/Alura%20-%20Linux%20Onboarding%20-%20Alura.pdf)
 - [Alura - Web Analytics](Diplomas_Cursos/02-Alura/Alura%20-%20Web%20Analytics%20-%20Alura%20-%2014ce2e3b-84fc-4b7a-8607-55d39ca0096b.pdf)
 
-## Udemy
+### Udemy
 - [Udemy - Data Science Visualização de Dados com Python](Diplomas_Cursos/07-Udemy/Udemy%20-%2002_CertificadoDeConclusao_DataScienceVisualiza%C3%A7%C3%A3odadosPython.PNG)
 - [Udemy - Aprendizagem por Reforço com Deep Learning, PyTorch e Python](Diplomas_Cursos/07-Udemy/Udemy%20-%20Aprendizagem%20por%20Refor%C3%A7o%20com%20Deep%20Learning,%20PyTorch%20e%20Python%20-%20UC-c75a876d-5fd7-401a-9c3e-3e8409f3d4fd.jpg)
 - [Udemy - Big Data - Processamento de dados com Spark e PySpark](Diplomas_Cursos/07-Udemy/Udemy%20-%20Big%20Data%20-%20Processamento%20de%20dados%20com%20Spark%20e%20PySpark%20-%20UC-8XR2GO0W.jpg)
@@ -234,16 +235,16 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [Udemy - Python para Finanças Investimentos & Análise de Dados](Diplomas_Cursos/07-Udemy/Udemy%20-%20Python%20para%20Finan%C3%A7as%20Investimentos%20&%20An%C3%A1lise%20de%20Dados%20-%20UC-4c5d20a9-aaa0-40b7-a273-2b2ca92528df.jpg)
 - [Udemy - UX & Design Thinking Experiência do Usuário nos negócios](Diplomas_Cursos/07-Udemy/Udemy%20-%20UX%20&%20Design%20Thinking%20Experi%C3%AAncia%20do%20Usu%C3%A1rio%20nos%20neg%C3%B3cios%20-%20UC-3b874afb-054b-4463-98a7-780e3b4420da.jpg)
 
-## XPE IGTI
+### XPE IGTI
 - [XPE_IGTI - Bootcamp - Architect Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Architect%20Cloud%20Computing.pdf)
 - [XPE_IGTI - Bootcamp - Ciencia de Dados](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%201c624d0b47ea31c4d004feb38f87fdcc.pdf)
 - [XPE_IGTI - Bootcamp - Ciencia de Dados - Renda Variável](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%20Renda%20Vari%C3%A1vel.pdf)
 - [XPE_IGTI - Bootcamp - Data Engineer Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Data%20Engineer%20Cloud%20Computing.pdf)
 
-## Digital One Innovation
+### Digital One Innovation
 - [Digital One Innovation - BootCamps DIO - Rota Data Engineer](Diplomas_Cursos/10-DIO_Digital_Innovation/Digital_One_Innovation%20-%20Rota_DataEngineer%20-%20BootCamps_DIO.pdf)
 
-## EDTI
+### EDTI
 - [EDTI - GreenBelt Lean 6Sigma](Diplomas_Cursos/03-EDTI/EDTI%20-%20GreenBelt_Lean_SixSigma%20-%20EDTIad523995176ef6ed8a3c37e7f6ae144d.pdf)
 - [EDTI - Carta P e Carta U no Excel](Diplomas_Cursos/03-EDTI/EDTI%20-%20Carta%20P%20e%20Carta%20U%20no%20Excel-%20EDTIfc4658a5e9ad2798c371c81858bbb8bc.pdf)
 - [EDTI - Introdução_Lean](Diplomas_Cursos/03-EDTI/EDTI%20-%20Introdu%C3%A7%C3%A3o_Lean%20-%20EDTIf9a6b0050ef6f59b8eee23a68d944d8d.pdf)
@@ -254,13 +255,9 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [EDTI - FMEA](Diplomas_Cursos/03-EDTI/EDTI%20-%20FMEA%20-%20EDTIdb2d8a1d16c99cc24c6349317ccdd58d.pdf)
 - [EDTI - Playbook](Diplomas_Cursos/03-EDTI/EDTI%20-%20Playbook%20-%20EDTI5c6edc4f63a11478f529a7482402afd6.pdf)
 
-## Data Science Academy
+### Data Science Academy
 - [Data Science Academy - Rota_CientistaDados_DSA](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20Rota_CientistaDados_DSA.pdf)
 - [Data Science Academy - Big Data Fundamentos](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20certificate-big-data-fundamentos-20-5727789d47d7ddbd598b4581.pdf)
-
-## EIA
-- [EIA - Big Data / Datalakes / Arquitetura lambda](Diplomas_Cursos/11-EIA/EIA%20-%20BigData_Datalakes_Arquitetura_lambda.jpg)
-- [EIA - Blockchain e Bitcoin para Leigos Simples e Fácil](Diplomas_Cursos/11-EIA/EIA%20-%20Blockchain%20e%20Bitcoin%20para%20Leigos%20Simples%20e%20F%C3%A1cil%20(certificate.pdf)
 
 ### 🚀 Minha Jornada Profissional
 Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
