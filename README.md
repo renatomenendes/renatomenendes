@@ -31,7 +31,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - **[Data Science pela IBM/Coursera](https://www.credly.com/badges/a2416110-ce8c-47b7-8c94-149f068fdf79/linked_in_profile)**.
 - **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**.
 - **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**.
-- 🌐 **[Diplomas e Certificações - Visualize Todos Aqui](https://github.com/renatomenendes/renatomenendes.github.io/index.html)**.
+- 🌐 **[Diplomas e Certificações - Visualize Todos Aqui](https://github.com/renatomenendes/renatomenendes/index.html)**.
 
 ### 🚀 Minha Jornada Profissional
 Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
