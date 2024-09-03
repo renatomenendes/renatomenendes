@@ -21,9 +21,10 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 </p>
 
 🎓 ***Formação Acadêmica:***
-- **[Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie](https://www.linkedin.com/in/renatocmcruz/details/education/1568586189414/single-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk)**.
-- **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](https://www.linkedin.com/in/renatocmcruz/details/education/614498417/multiple-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk&treasuryMediaId=1635513657494)**.
-- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](https://www.linkedin.com/in/renatocmcruz/overlay/1635551564809/single-media-viewer/?profileId=ACoAAC19QL0BCRXV7IoLuxnSWlgTe2MM5wGPFqk)**.
+- **[SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)**
+- **[Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)**.
+- **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](Diplomas_Especializacao/Est%C3%A1cio%20-%20Bigdata%20-%20CertificadoDeConclusao.pdf)**.
+- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](Diplomas_Especializacao/UNileya%20-%20MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-%201701223691571.jpeg)**
 
 🏆 ***Certificações:***
 - **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
@@ -110,18 +111,6 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 
 ### University of São Paulo (USP) - Coursera
 - [USP - Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
-
-### Unileya - MBA Executivo em Inteligência Artificial
-- [Unyleya - MBA Executivo em Inteligência Artificial](Diplomas_Especializacao/UNileya%20-%20MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-%201701223691571.jpeg)
-
-### Faculdade Mackenzie
-- [FACULDADE MACKENZIE - Bacharelado em Administração](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)
-
-### SENAC
-- [SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)
-
-### Estácio
-- [Unyleya - MBA Executivo em Bigdata & Analitycs](Diplomas_Especializacao/Est%C3%A1cio%20-%20Bigdata%20-%20CertificadoDeConclusao.pdf)
 
 ### FIAP
 - [FIAP - Big Data & Analytics](Diplomas_Cursos/06-FIAP/FIAP%20-%20Big%20Data%20&%20Analytics%20-%2062d9abab1db163f3b0b5ca93699e12b2.png)
