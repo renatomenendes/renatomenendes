@@ -22,7 +22,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 
 🎓 ***Formação Acadêmica:***
 - **[SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)**
-- **[Bacharel em Administração de Empresas** - Universidade Presbiteriana Mackenzie](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)**.
+- **[Bacharel em Administração de Empresas - Universidade Presbiteriana Mackenzie](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)**.
 - **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](Diplomas_Especializacao/Est%C3%A1cio%20-%20Bigdata%20-%20CertificadoDeConclusao.pdf)**.
 - **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](Diplomas_Especializacao/UNileya%20-%20MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-%201701223691571.jpeg)**
 
