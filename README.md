@@ -261,6 +261,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 ## EIA
 - [EIA - Big Data / Datalakes / Arquitetura lambda](Diplomas_Cursos/11-EIA/EIA%20-%20BigData_Datalakes_Arquitetura_lambda.jpg)
 - [EIA - Blockchain e Bitcoin para Leigos Simples e Fácil](Diplomas_Cursos/11-EIA/EIA%20-%20Blockchain%20e%20Bitcoin%20para%20Leigos%20Simples%20e%20F%C3%A1cil%20(certificate.pdf)
+
 ### 🚀 Minha Jornada Profissional
 Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
 
