@@ -24,7 +24,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - **[SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)**
 - **[Bacharel em Administração de Empresas - Universidade Presbiteriana Mackenzie](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)**.
 - **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](https://github.com/renatomenendes/renatomenendes/blob/ce47c423ec7c1f862a5075f07eba3df165e4305f/Diplomas_Especializacao/Est%C3%A1cio%20-%20MBA%20Executivo%20-%20BigData%207%20Analitycs%20-%201673573190639.jpeg)**.
-- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](Diplomas_Especializacao/UNileya%20-%20MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-%201701223691571.jpeg)**
+- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](https://github.com/renatomenendes/renatomenendes/blob/ce47c423ec7c1f862a5075f07eba3df165e4305f/Diplomas_Especializacao/Unyleya%20-MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-1701223691571.jpeg)**
 
 🏆 ***Certificações:***
 - **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
