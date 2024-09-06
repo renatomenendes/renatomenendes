@@ -37,6 +37,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 
 ### Yale University - Coursera
 - [Yale University - Financial Markets](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
+- 🔗 (https://www.coursera.org/learn/financial-markets-global/)
 
 ### Columbia University - Coursera
 - [Columbia University - Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
@@ -260,12 +261,6 @@ Ao longo de quase duas décadas, estive à frente de iniciativas críticas em em
 ### 🎯 Objetivo de Carreira
 Como aspirante a **Gerente de Data Science & Insights**, estou focado em liderar equipes multidisciplinares para traduzir dados complexos em estratégias acionáveis, visando impulsionar o desempenho e a inovação organizacional.
 
-### 🔗 Conecte-se Comigo
-- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/renatomenendes_40976)
-- [![LinkedIn](https://img.shields.io/badge/-Meu%20Perfil%20no%20LinkedIn-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/renatocmcruz/)
-- [![Twitter](https://img.shields.io/badge/-Meu%20Perfil%20no%20X-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://twitter.com/sir_menendes)
-- [![Facebook](https://img.shields.io/badge/-Meu%20Perfil%20no%20Facebook-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.facebook.com/Sr.Menendes)
-
 ### 💼 Experiência Profissional Detalhada
 Para mais informações sobre minha experiência profissional, incluindo projetos detalhados e competências técnicas, visite [meu perfil no LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
 
@@ -279,7 +274,7 @@ Para mais informações sobre minha experiência profissional, incluindo projeto
 ### ✍️ Blog & Artigos
 Confira meus artigos sobre ciência de dados e inovação em negócios no [LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
 
-### 📫 Como Me Contatar
+### 🔗 Conecte-se Comigo
 - 📧 Email: **Renato_Data@engineer.com**
 - 📧 Email: **renato_datascientist@consultant.com**
 - 📧 Email: **renato.c.m.cruz@me.com**
@@ -288,7 +283,12 @@ Confira meus artigos sobre ciência de dados e inovação em negócios no [Linke
 - 📧 Email: **gpfedericianibrasile@gmail.com**
 - 📧 Email: **renatocruz72@gmail.com**
 - 📧 Email: **renato.cruz@hotmail.com**
- 
+
+- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/renatomenendes_40976)
+- [![LinkedIn](https://img.shields.io/badge/-Meu%20Perfil%20no%20LinkedIn-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/renatocmcruz/)
+- [![Twitter](https://img.shields.io/badge/-Meu%20Perfil%20no%20X-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://twitter.com/sir_menendes)
+- [![Facebook](https://img.shields.io/badge/-Meu%20Perfil%20no%20Facebook-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.facebook.com/Sr.Menendes)
+
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
