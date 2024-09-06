@@ -44,11 +44,11 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
   * [📚 Acessar Curso](https://www.coursera.org/learn/dmrol/)
 
 ### University of Virginia & BCG - Coursera
-- [University of Virginia & BCG - Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
-- [University of Virginia & BCG - Customer Value in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Customer%20Value%20in%20Pricing%20Strategy%20-%20Coursera%20-%20BHMRRHDAE9DS.pdf)
-- [University of Virginia & BCG - Market and Competition in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Market%20and%20Competition%20in%20Pricing%20Strategy%20-%20Coursera%20-%20YM6BCMATCFVC.pdf)
-- [University of Virginia & BCG - Pricing Strategy Specialization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)
-- [University of Virginia & BCG - Pricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
+* [🎖️ Pricing Strategy Specialization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)
+* [🎖️ Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
+* [🎖️ Customer Value in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Customer%20Value%20in%20Pricing%20Strategy%20-%20Coursera%20-%20BHMRRHDAE9DS.pdf)
+* [🎖️ Market and Competition in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Market%20and%20Competition%20in%20Pricing%20Strategy%20-%20Coursera%20-%20YM6BCMATCFVC.pdf)
+* [🎖️ ricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
 
 ### Johns Hopkins University - Coursera
@@ -56,61 +56,61 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
   * [📚 Acessar Curso](https://www.coursera.org/specializations/data-science-foundations-r)
 
 ### Alberta University - Coursera
-- [Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
+* [🎖️ Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/specializations/reinforcement-learning)
 
 ### Eindhoven University of Technology (TUe) - Coursera
-- [Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
+* [🎖️ Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/learn/process-mining/home/welcome)
 
 ### Macquarie University - Coursera
-- [Macquarie University - Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
-- [Macquarie University - Storytelling and influencing Communicate with impact](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Storytelling%20and%20influencing%20Communicate%20with%20impact%20-%20Coursera%20-%20D38W2VH2HY7N.pdf)
+* [🎖️ Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
+* [🎖️ Storytelling and influencing Communicate with impact](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Storytelling%20and%20influencing%20Communicate%20with%20impact%20-%20Coursera%20-%20D38W2VH2HY7N.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/specializations/influencing-storytelling-change-management)
 
 ### University of São Paulo (USP) - Coursera
-- [USP - Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
+* [🎖️ Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/learn/estrategia-marketing-digital/)
   * 
 ### FIA - Coursera
-- [Fundamentos da Gestão do Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
-- [O Mundo dos Negócios das Subscrições](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
-- [Principais Elementos do Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
-- [A Organização Centrada na Jornada do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
-- [As Competências do Especialista no Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
+* [🎖️ Fundamentos da Gestão do Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
+* [🎖️ O Mundo dos Negócios das Subscrições](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
+* [🎖️ Principais Elementos do Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
+* [🎖️ A Organização Centrada na Jornada do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
+* [🎖️ As Competências do Especialista no Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/specializations/fundamentos-da-gestao-do-sucesso-do-cliente)
 
 ### DeepLearning.AI - Coursera
-- [Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
+* [🎖️ Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/learn/generative-ai-for-everyone/)
 
 ## Google - Coursera
-- [GOOGLE - Design de UX - Coursera - FBCUKTT4S9NH](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20FBCUKTT4S9NH.pdf)
-- [GOOGLE - Design de UX - Coursera - HALMQHE5R4BZ](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20HALMQHE5R4BZ.pdf)
+* [🎖️ Design de UX - Coursera - FBCUKTT4S9NH](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20FBCUKTT4S9NH.pdf)
+* [🎖️ Design de UX - Coursera - HALMQHE5R4BZ](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20HALMQHE5R4BZ.pdf)
   * [📚 Acessar Curso]
 
 ### IBM - Coursera
-- [IBM - Data Science - Certificado Profissional](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
-- [IBM - Data Science Specialization](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20Specialization%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
-- [IBM - Applied Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Applied%20Data%20Science%20-%20Coursera%20-%206SXMWARGTD8W.pdf)
-- [IBM - Data Analysis with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20TVG3NWUQM9LU.pdf)
-- [IBM - What is Data Science?](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20UEEVDC47Y6C4.pdf)
-- [IBM - Generative AI: Introduction and Applications](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20W95PJMD4PQGV.pdf)
-- [IBM - Python for Data Science, AI & Development](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20WUGYAJB43XQR.pdf)
-- [IBM - Applied Data Science Capstone](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20Y8FBL92PRMUA.pdf)
-- [IBM - Data Science Methodology](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20Methodology%20-%20Coursera%20-%20JYE9XSNAJMVU.pdf)
-- [IBM - Data Visualization with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Visualization%20with%20Python%20-%20Coursera%20-%20NUQS3UKZJK4V.pdf)
-- [IBM - Databases and SQL for Data Science with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python%20-%20Coursera%20-%203LKHYTFUH6C5.pdf)
-- [IBM - Deep Learning & Neural Networks with Keras](Diplomas_Cursos/01-Cousera/IBM%20-%20Deep%20Learning%20&%20Neural%20Networks%20with%20Keras%20-%20Coursera%20-%208AZEOCZHWJJ5.pdf)
-- [IBM - Exploratory Data Analysis for Machine Learning](Diplomas_Cursos/01-Cousera/IBM%20-%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning%20-%20Coursera%20-%20B45395HPAQJR.pdf)
-- [IBM - Generative AI Prompt Engineering Basics](Diplomas_Cursos/01-Cousera/IBM%20-%20Generative%20AI%20Prompt%20Engineering%20Basics%20-%20Coursera%20-%20K6WGFHJ6DCCZ.pdf)
-- [IBM - IBM Machine Learning Specialization](Diplomas_Cursos/01-Cousera/IBM%20-%20IBM%20Machine%20Learning%20Specialization%20-%20Coursera%20-%20EWCJ6GYNM3TX.pdf)
-- [IBM - Introduction to Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Introduction%20to%20Data%20Science%20-%20Coursera%20-%20NVGZGC854KTG.pdf)
-- [IBM - Key Technologies for Business](Diplomas_Cursos/01-Cousera/IBM%20-%20Key%20Technologies%20for%20Business%20-%20Coursera%20-%207EHEZDZV96TR.pdf)
-- [IBM - Machine Learning with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Machine%20Learning%20with%20Python%20-%20Coursera%20-%20A4AJWTVYUM79.pdf)
-- [IBM - Python Project for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Python%20Project%20for%20Data%20Science%20-%20Coursera%20-%20HVSDS45U6Q9Q.pdf)
-- [IBM - Specialized Models Time Series](Diplomas_Cursos/01-Cousera/IBM%20-%20Specialized%20Models%20Time%20Series%20-%20Coursera%20-%20HWNJ6BG5TG6G.pdf)
-- [IBM - Tools for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Tools%20for%20Data%20Science%20-%20Coursera%20-%2039PZ4UWDKXZU.pdf)
+* [🎖️ Machine Learning Specialization](Diplomas_Cursos/01-Cousera/IBM%20-%20IBM%20Machine%20Learning%20Specialization%20-%20Coursera%20-%20EWCJ6GYNM3TX.pdf)
+* [🎖️ Data Science - Certificado Profissional](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
+* [🎖️ Data Science Specialization](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20Specialization%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
+* [🎖️ Applied Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Applied%20Data%20Science%20-%20Coursera%20-%206SXMWARGTD8W.pdf)
+* [🎖️ Data Analysis with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20TVG3NWUQM9LU.pdf)
+* [🎖️ What is Data Science?](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20UEEVDC47Y6C4.pdf)
+* [🎖️ Generative AI: Introduction and Applications](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20W95PJMD4PQGV.pdf)
+* [🎖️ Python for Data Science, AI & Development](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20WUGYAJB43XQR.pdf)
+* [🎖️ Applied Data Science Capstone](Diplomas_Cursos/01-Cousera/IBM%20-%20Coursera%20-%20Y8FBL92PRMUA.pdf)
+* [🎖️ Data Science Methodology](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20Methodology%20-%20Coursera%20-%20JYE9XSNAJMVU.pdf)
+* [🎖️ Data Visualization with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Visualization%20with%20Python%20-%20Coursera%20-%20NUQS3UKZJK4V.pdf)
+* [🎖️ Databases and SQL for Data Science with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python%20-%20Coursera%20-%203LKHYTFUH6C5.pdf)
+* [🎖️ Deep Learning & Neural Networks with Keras](Diplomas_Cursos/01-Cousera/IBM%20-%20Deep%20Learning%20&%20Neural%20Networks%20with%20Keras%20-%20Coursera%20-%208AZEOCZHWJJ5.pdf)
+* [🎖️ Exploratory Data Analysis for Machine Learning](Diplomas_Cursos/01-Cousera/IBM%20-%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning%20-%20Coursera%20-%20B45395HPAQJR.pdf)
+* [🎖️ Generative AI Prompt Engineering Basics](Diplomas_Cursos/01-Cousera/IBM%20-%20Generative%20AI%20Prompt%20Engineering%20Basics%20-%20Coursera%20-%20K6WGFHJ6DCCZ.pdf)
+* [🎖️ Introduction to Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Introduction%20to%20Data%20Science%20-%20Coursera%20-%20NVGZGC854KTG.pdf)
+* [🎖️ Key Technologies for Business](Diplomas_Cursos/01-Cousera/IBM%20-%20Key%20Technologies%20for%20Business%20-%20Coursera%20-%207EHEZDZV96TR.pdf)
+* [🎖️ Machine Learning with Python](Diplomas_Cursos/01-Cousera/IBM%20-%20Machine%20Learning%20with%20Python%20-%20Coursera%20-%20A4AJWTVYUM79.pdf)
+* [🎖️ Python Project for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Python%20Project%20for%20Data%20Science%20-%20Coursera%20-%20HVSDS45U6Q9Q.pdf)
+* [🎖️ Specialized Models Time Series](Diplomas_Cursos/01-Cousera/IBM%20-%20Specialized%20Models%20Time%20Series%20-%20Coursera%20-%20HWNJ6BG5TG6G.pdf)
+* [🎖️ Tools for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Tools%20for%20Data%20Science%20-%20Coursera%20-%2039PZ4UWDKXZU.pdf)
   * [📚 Acessar Curso]
 
 ### Microsoft
