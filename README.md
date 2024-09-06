@@ -38,7 +38,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 ### Yale University - Coursera
 - [Yale University - Financial Markets](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
 
-### Columbia University
+### Columbia University - Coursera
 - [Columbia University - Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
 
 ### University of Virginia & BCG - Coursera
