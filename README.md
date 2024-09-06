@@ -13,42 +13,55 @@ Meu compromisso com a excelência me levou a buscar certificações de renome. S
 Durante quase duas décadas, dediquei-me a resolver desafios complexos em empresas como Oi, Serede, Grupo Contax, Azul Linhas Aéreas Brasileiras, entre outras. Em todas, concentrei-me na arquitetura e metodologia de dados, tornando-me uma peça-chave na transformação e otimização de processos.
 
 O que me define não é apenas meu currículo, mas minha filosofia: acredito no poder da inovação e da melhoria contínua. Vejo cada obstáculo como uma oportunidade, cada desafio como uma chance de crescimento.
+</p>
 
-Objetivo de Carreira:
+---
+
+## 🎓 Formação Acadêmica
+
+- **[SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)**
+- **[Bacharel em Administração de Empresas - Universidade Presbiteriana Mackenzie](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)**
+- **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](https://github.com/renatomenendes/renatomenendes/blob/ce47c423ec7c1f862a5075f07eba3df165e4305f/Diplomas_Especializacao/Est%C3%A1cio%20-%20MBA%20Executivo%20-%20BigData%207%20Analitycs%20-%201673573190639.jpeg)**
+- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](https://github.com/renatomenendes/renatomenendes/blob/ce47c423ec7c1f862a5075f07eba3df165e4305f/Diplomas_Especializacao/Unyleya%20-%20MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-%201701223691571.jpeg)**
+
+---
+
+## 🏆 Certificações
+
+- **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
+- **[Certificado em Pricing Strategy Optimization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)**
+- **[Data Science pela IBM/Coursera](https://www.credly.com/badges/a2416110-ce8c-47b7-8c94-149f068fdf79/linked_in_profile)**
+- **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**
+- **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**
+
+---
+
+## 🚀 Minha Jornada Profissional
+
+Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
+
+### Vibra Energia - Senior Data Scientist
+- Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
+
+### NTT DATA Europe & Latam - Consultor de Engenharia de Software
+- Responsável pela estratégia de visualização de dados e pela promoção de uma cultura orientada por dados, supervisionando todas as fases de análise de dados, desde a coleta até a entrega de insights estratégicos.
+
+---
+
+## 🎯 Objetivo de Carreira:
+<p align="center">
 Tendo construído uma base sólida em análise e estratégia de dados, meu objetivo agora é me tornar Gerente de Data Science & Insights. Anseio por liderar equipes talentosas, traduzindo dados complexos em insights acionáveis que podem remodelar e revigorar estratégias de negócios. Com minha extensa experiência e paixão pela inovação, estou preparado para guiar projetos de análise de ponta a ponta, colaborar interdepartamentalmente e entregar soluções de dados excepcionais.
 
 Em resumo, estou comprometido em conduzir a transformação digital, impulsionando a inovação e agregando valor contínuo. Estou ansioso para colaborar, aprender e compartilhar, enquanto juntos moldamos o futuro dos negócios através da ciência de dados.
-</p>
-
-🎓 ***Formação Acadêmica:***
-- **[SENAC - 2º Grau Técnico em Administração](Diplomas_Graduacao/SENAC%20-%20DIPLOMA%20-%20Renato_Cruz.jpeg)**
-- **[Bacharel em Administração de Empresas - Universidade Presbiteriana Mackenzie](Diplomas_Graduacao/FACULDADE%20MACKENZIE%20-%20Diploma_Gradua%C3%A7%C3%A3o_Frente_cl.jpeg)**.
-- **[Pós-graduação em Ciência de Dados e Big Data Analytics - Universidade Estácio de Sá](https://github.com/renatomenendes/renatomenendes/blob/ce47c423ec7c1f862a5075f07eba3df165e4305f/Diplomas_Especializacao/Est%C3%A1cio%20-%20MBA%20Executivo%20-%20BigData%207%20Analitycs%20-%201673573190639.jpeg)**.
-- **[MBA Executivo em Inteligência Artificial - Faculdade Unyleya](https://github.com/renatomenendes/renatomenendes/blob/ce47c423ec7c1f862a5075f07eba3df165e4305f/Diplomas_Especializacao/Unyleya%20-MBA%20Executivo%20em%20Intelig%C3%AAncia%20Artificial%20-1701223691571.jpeg)**
-
-🏆 ***Certificações:***
-- **[Green Belt Six Sigma](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-2429668.pdf)**
-- **[Certificado em Pricing Strategy Optimization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)**.
-- **[Data Science pela IBM/Coursera](https://www.credly.com/badges/a2416110-ce8c-47b7-8c94-149f068fdf79/linked_in_profile)**.
-- **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**.
-- **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**.
-
-### 🚀 Minha Jornada Profissional
-Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
-
-**Senior Data Scientist** - ***Vibra Energia***
-- Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
-
-**Consultor de Engenharia de Software** - ***NTT DATA Europe & Latam***
-- Responsável pela estratégia de visualização de dados e pela promoção de uma cultura orientada por dados, supervisionando todas as fases de análise de dados, desde a coleta até a entrega de insights estratégicos.
-
-### 🎯 Objetivo de Carreira
-Como aspirante a **Gerente de Data Science & Insights**, estou focado em liderar equipes multidisciplinares para traduzir dados complexos em estratégias acionáveis, visando impulsionar o desempenho e a inovação organizacional.
 
 ### 💼 Experiência Profissional Detalhada
 Para mais informações sobre minha experiência profissional, incluindo projetos detalhados e competências técnicas, visite [meu perfil no LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
 
-## Diplomas e Certificações
+</p>
+
+---
+
+## 📜 Diplomas e Certificações
 
 ### Yale University - Coursera
 * [🎖️ Financial Markets - Certificado](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
@@ -278,12 +291,16 @@ Para mais informações sobre minha experiência profissional, incluindo projeto
 * [🎖️ Rota_Cientista de Dados_DSA](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20Rota_CientistaDados_DSA.pdf)
 * [🎖️ Big Data Fundamentos](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20certificate-big-data-fundamentos-20-5727789d47d7ddbd598b4581.pdf)
 
-### 🛠️ Ferramentas e Tecnologias
+---
+
+## 🛠️ Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
 
 ### ✍️ Blog & Artigos
 Confira meus artigos sobre ciência de dados e inovação em negócios no [LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
@@ -304,6 +321,9 @@ Confira meus artigos sobre ciência de dados e inovação em negócios no [Linke
 - [![Facebook](https://img.shields.io/badge/-Meu%20Perfil%20no%20Facebook-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.facebook.com/Sr.Menendes)
 
 </h3>
+
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="renatomenendes" /> </p>
 
