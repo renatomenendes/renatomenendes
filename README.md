@@ -35,23 +35,46 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 
 ## Diplomas e Certificações
 
-### Yale University
+### Yale University - Coursera
 - [Yale University - Financial Markets](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
 
 ### Columbia University
 - [Columbia University - Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
 
-### University of Virginia & BCG
+### University of Virginia & BCG - Coursera
 - [University of Virginia & BCG - Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
 - [University of Virginia & BCG - Customer Value in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Customer%20Value%20in%20Pricing%20Strategy%20-%20Coursera%20-%20BHMRRHDAE9DS.pdf)
 - [University of Virginia & BCG - Market and Competition in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Market%20and%20Competition%20in%20Pricing%20Strategy%20-%20Coursera%20-%20YM6BCMATCFVC.pdf)
 - [University of Virginia & BCG - Pricing Strategy Specialization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)
 - [University of Virginia & BCG - Pricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
 
-### Johns Hopkins University
+### Johns Hopkins University - Coursera
 - [Johns Hopkins University - As Ferramentas do Cientista de Dados](Diplomas_Cursos/01-Cousera/Johns%20Hopkins%20University%20-%20As%20Ferramentas%20do%20Cientista%20de%20Dados%20-%20Coursera%20-%20B4WBSFJ5F3DB.pdf)
 
-## Google
+### Alberta University - Coursera
+- [Alberta university - Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
+
+### Eindhoven University of Technology (TUe) - Coursera
+- [Eindhoven University of Technology (TUe) - Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
+
+### Macquarie University - Coursera
+- [Macquarie University - Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
+- [Macquarie University - Storytelling and influencing Communicate with impact](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Storytelling%20and%20influencing%20Communicate%20with%20impact%20-%20Coursera%20-%20D38W2VH2HY7N.pdf)
+
+### University of São Paulo (USP) - Coursera
+- [USP - Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
+
+### FIA - Coursera
+- [FIA - Gestão de Sucesso do Cliente - 4Y59YM4RFWNZ](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
+- [FIA - Gestão de Sucesso do Cliente - J3PSE4R4V552](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
+- [FIA - Gestão de Sucesso do Cliente - NMT2PMKMBFEW](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
+- [FIA - Gestão de Sucesso do Cliente - V5K4UWW4SKGH](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
+- [FIA - Gestão de Sucesso do Cliente - WKZ5Y93B6F9D](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
+
+### DeepLearning.AI - Coursera
+- [DeepLearning.AI - Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
+
+## Google - Coursera
 - [GOOGLE - Design de UX - Coursera - FBCUKTT4S9NH](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20FBCUKTT4S9NH.pdf)
 - [GOOGLE - Design de UX - Coursera - HALMQHE5R4BZ](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20HALMQHE5R4BZ.pdf)
 
@@ -85,32 +108,9 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [Microsoft - MSSQL_6235](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_MSSQL_6235_Renato_Cruz.jpeg)
 - [Microsoft - TSQL2000](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_TSQL2000_Renato_Cruz.jpeg)
 
-### Alberta University - Coursera
-- [Alberta university - Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
-
-### Eindhoven University of Technology (TUe) - Coursera
-- [Eindhoven University of Technology (TUe) - Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
-
-### FIA - Coursera
-- [FIA - Gestão de Sucesso do Cliente - 4Y59YM4RFWNZ](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
-- [FIA - Gestão de Sucesso do Cliente - J3PSE4R4V552](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
-- [FIA - Gestão de Sucesso do Cliente - NMT2PMKMBFEW](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
-- [FIA - Gestão de Sucesso do Cliente - V5K4UWW4SKGH](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
-- [FIA - Gestão de Sucesso do Cliente - WKZ5Y93B6F9D](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
-
-### DeepLearning.AI - Coursera
-- [DeepLearning.AI - Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
-
 ### SAS - Coursera
 - [SAS - SAS Programming](Diplomas_Cursos/01-Cousera/SAS%20-%20SAS%20Programming%20-%20Coursera%20-%20T29GHQ3ALV46.pdf)
 - [SAS - Structured Query Language](Diplomas_Cursos/01-Cousera/SAS%20-%20Structured%20Query%20Language%20-%20Coursera%20-%20EEYSKJD57GRA.pdf)
-
-### Macquarie University - Coursera
-- [Macquarie University - Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
-- [Macquarie University - Storytelling and influencing Communicate with impact](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Storytelling%20and%20influencing%20Communicate%20with%20impact%20-%20Coursera%20-%20D38W2VH2HY7N.pdf)
-
-### University of São Paulo (USP) - Coursera
-- [USP - Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
 
 ### FIAP
 - [FIAP - Big Data & Analytics](Diplomas_Cursos/06-FIAP/FIAP%20-%20Big%20Data%20&%20Analytics%20-%2062d9abab1db163f3b0b5ca93699e12b2.png)
