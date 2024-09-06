@@ -33,6 +33,21 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**.
 - **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**.
 
+### 🚀 Minha Jornada Profissional
+Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
+
+**Senior Data Scientist** - ***Vibra Energia***
+- Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
+
+**Consultor de Engenharia de Software** - ***NTT DATA Europe & Latam***
+- Responsável pela estratégia de visualização de dados e pela promoção de uma cultura orientada por dados, supervisionando todas as fases de análise de dados, desde a coleta até a entrega de insights estratégicos.
+
+### 🎯 Objetivo de Carreira
+Como aspirante a **Gerente de Data Science & Insights**, estou focado em liderar equipes multidisciplinares para traduzir dados complexos em estratégias acionáveis, visando impulsionar o desempenho e a inovação organizacional.
+
+### 💼 Experiência Profissional Detalhada
+Para mais informações sobre minha experiência profissional, incluindo projetos detalhados e competências técnicas, visite [meu perfil no LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
+
 ## Diplomas e Certificações
 
 ### Yale University - Coursera
@@ -262,21 +277,6 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 ### Data Science Academy
 * [🎖️ Rota_Cientista de Dados_DSA](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20Rota_CientistaDados_DSA.pdf)
 * [🎖️ Big Data Fundamentos](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20certificate-big-data-fundamentos-20-5727789d47d7ddbd598b4581.pdf)
-
-### 🚀 Minha Jornada Profissional
-Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
-
-**Senior Data Scientist** - ***Vibra Energia***
-- Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
-
-**Consultor de Engenharia de Software** - ***NTT DATA Europe & Latam***
-- Responsável pela estratégia de visualização de dados e pela promoção de uma cultura orientada por dados, supervisionando todas as fases de análise de dados, desde a coleta até a entrega de insights estratégicos.
-
-### 🎯 Objetivo de Carreira
-Como aspirante a **Gerente de Data Science & Insights**, estou focado em liderar equipes multidisciplinares para traduzir dados complexos em estratégias acionáveis, visando impulsionar o desempenho e a inovação organizacional.
-
-### 💼 Experiência Profissional Detalhada
-Para mais informações sobre minha experiência profissional, incluindo projetos detalhados e competências técnicas, visite [meu perfil no LinkedIn](https://www.linkedin.com/in/renatocmcruz/).
 
 ### 🛠️ Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
