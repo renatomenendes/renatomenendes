@@ -36,11 +36,12 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 ## Diplomas e Certificações
 
 ### Yale University - Coursera
-- [Yale University - Financial Markets](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
-- 🔗 (https://www.coursera.org/learn/financial-markets-global/)
+* [🎖️ Financial Markets - Certificado](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/learn/financial-markets-global/)
 
 ### Columbia University - Coursera
 - [Columbia University - Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
+  🔗 (https://www.coursera.org/learn/dmrol/)
 
 ### University of Virginia & BCG - Coursera
 - [University of Virginia & BCG - Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
@@ -50,13 +51,15 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [University of Virginia & BCG - Pricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
 
 ### Johns Hopkins University - Coursera
-- [Johns Hopkins University - As Ferramentas do Cientista de Dados](Diplomas_Cursos/01-Cousera/Johns%20Hopkins%20University%20-%20As%20Ferramentas%20do%20Cientista%20de%20Dados%20-%20Coursera%20-%20B4WBSFJ5F3DB.pdf)
+- [As Ferramentas do Cientista de Dados](Diplomas_Cursos/01-Cousera/Johns%20Hopkins%20University%20-%20As%20Ferramentas%20do%20Cientista%20de%20Dados%20-%20Coursera%20-%20B4WBSFJ5F3DB.pdf)
 
 ### Alberta University - Coursera
-- [Alberta university - Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
+- [Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
+- 🔗 [Programa de cursos integrados Aprendizagem por reforço](https://www.coursera.org/specializations/reinforcement-learning)
 
 ### Eindhoven University of Technology (TUe) - Coursera
-- [Eindhoven University of Technology (TUe) - Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
+- [Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
+  🔗[Process Mining](https://www.coursera.org/learn/process-mining/home/welcome)
 
 ### Macquarie University - Coursera
 - [Macquarie University - Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
