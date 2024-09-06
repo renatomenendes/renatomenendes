@@ -222,46 +222,46 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 * [🎖️ Rotas_Aprendizagem_Linkedin](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20Rotas_Aprendizagem_Linkedin.pdf.pdf)
 
 ### Alura
-- [Alura - Arquitetura de computadores](Diplomas_Cursos/02-Alura/Alura%20-%20Arquitetura%20de%20computadores.pdf)
-- [Alura - DOCKER CRIANDO E GERENCIANDO CONTAINERS](Diplomas_Cursos/02-Alura/Alura%20-%20DOCKER%20CRIANDO%20E%20GERENCIANDO%20CONTAINERS.pdf)
-- [Alura - Gerente Ágil - Metodologia Agile](Diplomas_Cursos/02-Alura/Alura%20-%20Gerente%20%C3%81gil%20-%20Metodologia%20Agile%20-%20b9efc30122be338a0e841a594d53d383.pdf)
-- [Alura - Linux Onboarding](Diplomas_Cursos/02-Alura/Alura%20-%20Linux%20Onboarding%20-%20Alura.pdf)
-- [Alura - Web Analytics](Diplomas_Cursos/02-Alura/Alura%20-%20Web%20Analytics%20-%20Alura%20-%2014ce2e3b-84fc-4b7a-8607-55d39ca0096b.pdf)
+* [🎖️ Arquitetura de computadores](Diplomas_Cursos/02-Alura/Alura%20-%20Arquitetura%20de%20computadores.pdf)
+* [🎖️ DOCKER CRIANDO E GERENCIANDO CONTAINERS](Diplomas_Cursos/02-Alura/Alura%20-%20DOCKER%20CRIANDO%20E%20GERENCIANDO%20CONTAINERS.pdf)
+* [🎖️ Gerente Ágil - Metodologia Agile](Diplomas_Cursos/02-Alura/Alura%20-%20Gerente%20%C3%81gil%20-%20Metodologia%20Agile%20-%20b9efc30122be338a0e841a594d53d383.pdf)
+* [🎖️ Linux Onboarding](Diplomas_Cursos/02-Alura/Alura%20-%20Linux%20Onboarding%20-%20Alura.pdf)
+* [🎖️ Web Analytics](Diplomas_Cursos/02-Alura/Alura%20-%20Web%20Analytics%20-%20Alura%20-%2014ce2e3b-84fc-4b7a-8607-55d39ca0096b.pdf)
 
 ### Udemy
-- [Udemy - Data Science Visualização de Dados com Python](Diplomas_Cursos/07-Udemy/Udemy%20-%2002_CertificadoDeConclusao_DataScienceVisualiza%C3%A7%C3%A3odadosPython.PNG)
-- [Udemy - Aprendizagem por Reforço com Deep Learning, PyTorch e Python](Diplomas_Cursos/07-Udemy/Udemy%20-%20Aprendizagem%20por%20Refor%C3%A7o%20com%20Deep%20Learning,%20PyTorch%20e%20Python%20-%20UC-c75a876d-5fd7-401a-9c3e-3e8409f3d4fd.jpg)
-- [Udemy - Big Data - Processamento de dados com Spark e PySpark](Diplomas_Cursos/07-Udemy/Udemy%20-%20Big%20Data%20-%20Processamento%20de%20dados%20com%20Spark%20e%20PySpark%20-%20UC-8XR2GO0W.jpg)
-- [Udemy - Databricks e APACHE HOP dados e seus tratamentos](Diplomas_Cursos/07-Udemy/Udemy%20-%20Databricks%20e%20APACHE%20HOP%20dados%20e%20seus%20tratamentos%20-%20UC-aae68497-dfab-4503-a234-ca424d36eaf3.jpg)
-- [Udemy - Formação Cientista de Dados O Curso Completo](Diplomas_Cursos/07-Udemy/Udemy%20-%20Forma%C3%A7%C3%A3o%20Cientista%20de%20Dados%20O%20Curso%20Completo%20-%20UC-9YVRSPDC.jpg)
-- [Udemy - Inteligência Artificial e Machine Learning O Guia Completo](Diplomas_Cursos/07-Udemy/Udemy%20-%20Intelig%C3%AAncia%20Artificial%20e%20Machine%20Learning%20O%20Guia%20Completo%20-%20UC-1e28de7c-4dfc-4e52-a683-575c6a0185fb.jpg)
-- [Udemy - Machine Learning e Data Science com Python de A a Z](Diplomas_Cursos/07-Udemy/Udemy%20-%20Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z%20-%20UC-931b69b9-3bbb-486d-8b86-0193217e9454.jpg)
-- [Udemy - Python para Finanças Investimentos & Análise de Dados](Diplomas_Cursos/07-Udemy/Udemy%20-%20Python%20para%20Finan%C3%A7as%20Investimentos%20&%20An%C3%A1lise%20de%20Dados%20-%20UC-4c5d20a9-aaa0-40b7-a273-2b2ca92528df.jpg)
-- [Udemy - UX & Design Thinking Experiência do Usuário nos negócios](Diplomas_Cursos/07-Udemy/Udemy%20-%20UX%20&%20Design%20Thinking%20Experi%C3%AAncia%20do%20Usu%C3%A1rio%20nos%20neg%C3%B3cios%20-%20UC-3b874afb-054b-4463-98a7-780e3b4420da.jpg)
+* [🎖️ Data Science Visualização de Dados com Python](Diplomas_Cursos/07-Udemy/Udemy%20-%2002_CertificadoDeConclusao_DataScienceVisualiza%C3%A7%C3%A3odadosPython.PNG)
+* [🎖️ Aprendizagem por Reforço com Deep Learning, PyTorch e Python](Diplomas_Cursos/07-Udemy/Udemy%20-%20Aprendizagem%20por%20Refor%C3%A7o%20com%20Deep%20Learning,%20PyTorch%20e%20Python%20-%20UC-c75a876d-5fd7-401a-9c3e-3e8409f3d4fd.jpg)
+* [🎖️ Big Data - Processamento de dados com Spark e PySpark](Diplomas_Cursos/07-Udemy/Udemy%20-%20Big%20Data%20-%20Processamento%20de%20dados%20com%20Spark%20e%20PySpark%20-%20UC-8XR2GO0W.jpg)
+* [🎖️ Databricks e APACHE HOP dados e seus tratamentos](Diplomas_Cursos/07-Udemy/Udemy%20-%20Databricks%20e%20APACHE%20HOP%20dados%20e%20seus%20tratamentos%20-%20UC-aae68497-dfab-4503-a234-ca424d36eaf3.jpg)
+* [🎖️ Formação Cientista de Dados O Curso Completo](Diplomas_Cursos/07-Udemy/Udemy%20-%20Forma%C3%A7%C3%A3o%20Cientista%20de%20Dados%20O%20Curso%20Completo%20-%20UC-9YVRSPDC.jpg)
+* [🎖️ Inteligência Artificial e Machine Learning O Guia Completo](Diplomas_Cursos/07-Udemy/Udemy%20-%20Intelig%C3%AAncia%20Artificial%20e%20Machine%20Learning%20O%20Guia%20Completo%20-%20UC-1e28de7c-4dfc-4e52-a683-575c6a0185fb.jpg)
+* [🎖️ Machine Learning e Data Science com Python de A a Z](Diplomas_Cursos/07-Udemy/Udemy%20-%20Machine%20Learning%20e%20Data%20Science%20com%20Python%20de%20A%20a%20Z%20-%20UC-931b69b9-3bbb-486d-8b86-0193217e9454.jpg)
+* [🎖️ Python para Finanças Investimentos & Análise de Dados](Diplomas_Cursos/07-Udemy/Udemy%20-%20Python%20para%20Finan%C3%A7as%20Investimentos%20&%20An%C3%A1lise%20de%20Dados%20-%20UC-4c5d20a9-aaa0-40b7-a273-2b2ca92528df.jpg)
+* [🎖️ UX & Design Thinking Experiência do Usuário nos negócios](Diplomas_Cursos/07-Udemy/Udemy%20-%20UX%20&%20Design%20Thinking%20Experi%C3%AAncia%20do%20Usu%C3%A1rio%20nos%20neg%C3%B3cios%20-%20UC-3b874afb-054b-4463-98a7-780e3b4420da.jpg)
 
 ### XPE IGTI
-- [XPE_IGTI - Bootcamp - Architect Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Architect%20Cloud%20Computing.pdf)
-- [XPE_IGTI - Bootcamp - Ciencia de Dados](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%201c624d0b47ea31c4d004feb38f87fdcc.pdf)
-- [XPE_IGTI - Bootcamp - Ciencia de Dados - Renda Variável](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%20Renda%20Vari%C3%A1vel.pdf)
-- [XPE_IGTI - Bootcamp - Data Engineer Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Data%20Engineer%20Cloud%20Computing.pdf)
+* [🎖️ Architect Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Architect%20Cloud%20Computing.pdf)
+* [🎖️ Ciencia de Dados](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%201c624d0b47ea31c4d004feb38f87fdcc.pdf)
+* [🎖️ Ciencia de Dados - Renda Variável](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%20Renda%20Vari%C3%A1vel.pdf)
+* [🎖️ Data Engineer Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Data%20Engineer%20Cloud%20Computing.pdf)
 
 ### Digital One Innovation
-- [Digital One Innovation - BootCamps DIO - Rota Data Engineer](Diplomas_Cursos/10-DIO_Digital_Innovation/Digital_One_Innovation%20-%20Rota_DataEngineer%20-%20BootCamps_DIO.pdf)
+* [🎖️ Rota Data Engineer DIO](Diplomas_Cursos/10-DIO_Digital_Innovation/Digital_One_Innovation%20-%20Rota_DataEngineer%20-%20BootCamps_DIO.pdf)
 
 ### EDTI
-- [EDTI - GreenBelt Lean 6Sigma](Diplomas_Cursos/03-EDTI/EDTI%20-%20GreenBelt_Lean_SixSigma%20-%20EDTIad523995176ef6ed8a3c37e7f6ae144d.pdf)
-- [EDTI - Carta P e Carta U no Excel](Diplomas_Cursos/03-EDTI/EDTI%20-%20Carta%20P%20e%20Carta%20U%20no%20Excel-%20EDTIfc4658a5e9ad2798c371c81858bbb8bc.pdf)
-- [EDTI - Introdução_Lean](Diplomas_Cursos/03-EDTI/EDTI%20-%20Introdu%C3%A7%C3%A3o_Lean%20-%20EDTIf9a6b0050ef6f59b8eee23a68d944d8d.pdf)
-- [EDTI - Sistema_Lean](Diplomas_Cursos/03-EDTI/EDTI%20-%20Sistema_Lean%20-%20EDTI4fb3728c88002adbfe0758ef6701c95d.pdf)
-- [EDTI - Ferramentas Lean Manufacturing](Diplomas_Cursos/03-EDTI/EDTI%20-%20Ferramentas%20Lean_Manufacturing%20-%20EDTI2453def272845021299372ebf1bcb638.pdf)
-- [EDTI - Minitab - Gráficos e Ferramentas](Diplomas_Cursos/03-EDTI/EDTI%20-%20Minitab%20-%20Gr%C3%A1ficos%20e%20Ferramentas%20-%20EDTI55866bb20439e602e0b15ba3dac2e014.pdf)
-- [EDTI - Boxplot](Diplomas_Cursos/03-EDTI/EDTI%20-%20Boxplot%20-%20EDTIf28a12d1a236947e069083b96be0ec0b.pdf)
-- [EDTI - FMEA](Diplomas_Cursos/03-EDTI/EDTI%20-%20FMEA%20-%20EDTIdb2d8a1d16c99cc24c6349317ccdd58d.pdf)
-- [EDTI - Playbook](Diplomas_Cursos/03-EDTI/EDTI%20-%20Playbook%20-%20EDTI5c6edc4f63a11478f529a7482402afd6.pdf)
+* [🎖️ GreenBelt Lean 6Sigma](Diplomas_Cursos/03-EDTI/EDTI%20-%20GreenBelt_Lean_SixSigma%20-%20EDTIad523995176ef6ed8a3c37e7f6ae144d.pdf)
+* [🎖️ Carta P e Carta U no Excel](Diplomas_Cursos/03-EDTI/EDTI%20-%20Carta%20P%20e%20Carta%20U%20no%20Excel-%20EDTIfc4658a5e9ad2798c371c81858bbb8bc.pdf)
+* [🎖️ Introdução_Lean](Diplomas_Cursos/03-EDTI/EDTI%20-%20Introdu%C3%A7%C3%A3o_Lean%20-%20EDTIf9a6b0050ef6f59b8eee23a68d944d8d.pdf)
+* [🎖️ Sistema_Lean](Diplomas_Cursos/03-EDTI/EDTI%20-%20Sistema_Lean%20-%20EDTI4fb3728c88002adbfe0758ef6701c95d.pdf)
+* [🎖️ Ferramentas Lean Manufacturing](Diplomas_Cursos/03-EDTI/EDTI%20-%20Ferramentas%20Lean_Manufacturing%20-%20EDTI2453def272845021299372ebf1bcb638.pdf)
+* [🎖️ Minitab - Gráficos e Ferramentas](Diplomas_Cursos/03-EDTI/EDTI%20-%20Minitab%20-%20Gr%C3%A1ficos%20e%20Ferramentas%20-%20EDTI55866bb20439e602e0b15ba3dac2e014.pdf)
+* [🎖️ Boxplot](Diplomas_Cursos/03-EDTI/EDTI%20-%20Boxplot%20-%20EDTIf28a12d1a236947e069083b96be0ec0b.pdf)
+* [🎖️ FMEA](Diplomas_Cursos/03-EDTI/EDTI%20-%20FMEA%20-%20EDTIdb2d8a1d16c99cc24c6349317ccdd58d.pdf)
+* [🎖️ Playbook](Diplomas_Cursos/03-EDTI/EDTI%20-%20Playbook%20-%20EDTI5c6edc4f63a11478f529a7482402afd6.pdf)
 
 ### Data Science Academy
-- [Data Science Academy - Rota_CientistaDados_DSA](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20Rota_CientistaDados_DSA.pdf)
-- [Data Science Academy - Big Data Fundamentos](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20certificate-big-data-fundamentos-20-5727789d47d7ddbd598b4581.pdf)
+* [🎖️ Rota_Cientista de Dados_DSA](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20Rota_CientistaDados_DSA.pdf)
+* [🎖️ Big Data Fundamentos](Diplomas_Cursos/12-DSA/Data%20Science%20Academy%20-%20certificate-big-data-fundamentos-20-5727789d47d7ddbd598b4581.pdf)
 
 ### 🚀 Minha Jornada Profissional
 Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
