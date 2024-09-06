@@ -38,12 +38,10 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 ### Yale University - Coursera
 * [🎖️ Financial Markets - Certificado](Diplomas_Cursos/01-Cousera/Yale%20University%20-%20Financial%20Markets%20-%20Coursera%20-%20QVYCTSQP4L7D.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/learn/financial-markets-global/)
-  * <a href="https://www.coursera.org/learn/financial-markets-global/" target="_blank">📚 Acessar Curso</a>
-
 
 ### Columbia University - Coursera
-- [Columbia University - Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
-  🔗 (https://www.coursera.org/learn/dmrol/)
+* [🎖️ Decision Making and Reinforcement Learning](Diplomas_Cursos/01-Cousera/Columbia%20University%20-%20Decision%20Making%20and%20Reinforcement%20Learning%20-%20Coursera%20-%20A8MXX3AF9VSW.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/learn/dmrol/)
 
 ### University of Virginia & BCG - Coursera
 - [University of Virginia & BCG - Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
@@ -51,38 +49,45 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [University of Virginia & BCG - Market and Competition in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Market%20and%20Competition%20in%20Pricing%20Strategy%20-%20Coursera%20-%20YM6BCMATCFVC.pdf)
 - [University of Virginia & BCG - Pricing Strategy Specialization](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20Specialization%20-%20Coursera%20-%20M8ZC3NWR4VGU.pdf)
 - [University of Virginia & BCG - Pricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
 
 ### Johns Hopkins University - Coursera
 - [As Ferramentas do Cientista de Dados](Diplomas_Cursos/01-Cousera/Johns%20Hopkins%20University%20-%20As%20Ferramentas%20do%20Cientista%20de%20Dados%20-%20Coursera%20-%20B4WBSFJ5F3DB.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/specializations/data-science-foundations-r)
 
 ### Alberta University - Coursera
 - [Reinforcement Learning Specialization](Diplomas_Cursos/01-Cousera/Alberta%20university%20-%20Reinforcement%20Learning%20Specialization%20-%20Coursera%20-%204QWDWHPJ92U9.pdf)
-- 🔗 [Programa de cursos integrados Aprendizagem por reforço](https://www.coursera.org/specializations/reinforcement-learning)
+  * [📚 Acessar Curso](https://www.coursera.org/specializations/reinforcement-learning)
 
 ### Eindhoven University of Technology (TUe) - Coursera
 - [Process Mining](Diplomas_Cursos/01-Cousera/Eindhoven%20University%20of%20Technology%20(TUe)%20-%20Process%20Mining%20-%20Coursera%20-%20H8TWM36AXMVS.pdf)
-  🔗[Process Mining](https://www.coursera.org/learn/process-mining/home/welcome)
+  * [📚 Acessar Curso](https://www.coursera.org/learn/process-mining/home/welcome)
 
 ### Macquarie University - Coursera
 - [Macquarie University - Leading transformations Manage change](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Leading%20transformations%20Manage%20change%20-%20Coursera%20-%207X8FK2UGCTLG.pdf)
 - [Macquarie University - Storytelling and influencing Communicate with impact](Diplomas_Cursos/01-Cousera/Macquarie%20University%20-%20Storytelling%20and%20influencing%20Communicate%20with%20impact%20-%20Coursera%20-%20D38W2VH2HY7N.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/specializations/influencing-storytelling-change-management)
 
 ### University of São Paulo (USP) - Coursera
 - [USP - Marketing Digital](Diplomas_Cursos/01-Cousera/USP%20-%20Marketing%20Digital%20-%20Coursera%20-%20NTEWWJD4Y8B7.pdf)
-
+  * [📚 Acessar Curso](https://www.coursera.org/learn/estrategia-marketing-digital/)
+  * 
 ### FIA - Coursera
-- [FIA - Gestão de Sucesso do Cliente - 4Y59YM4RFWNZ](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
-- [FIA - Gestão de Sucesso do Cliente - J3PSE4R4V552](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
-- [FIA - Gestão de Sucesso do Cliente - NMT2PMKMBFEW](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
-- [FIA - Gestão de Sucesso do Cliente - V5K4UWW4SKGH](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
-- [FIA - Gestão de Sucesso do Cliente - WKZ5Y93B6F9D](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
+- [Fundamentos da Gestão do Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20J3PSE4R4V552.pdf)
+- [O Mundo dos Negócios das Subscrições](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%204Y59YM4RFWNZ.pdf)
+- [Principais Elementos do Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20NMT2PMKMBFEW.pdf)
+- [A Organização Centrada na Jornada do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20V5K4UWW4SKGH.pdf)
+- [As Competências do Especialista no Sucesso do Cliente](Diplomas_Cursos/01-Cousera/FIA%20-%20Gest%C3%A3o%20de%20Sucesso%20do%20Cliente%20-%20Coursera%20-%20WKZ5Y93B6F9D.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/specializations/fundamentos-da-gestao-do-sucesso-do-cliente)
 
 ### DeepLearning.AI - Coursera
-- [DeepLearning.AI - Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
+- [Generative AI for Everyone](Diplomas_Cursos/01-Cousera/DeepLearning.AI%20-%20Generative%20AI%20for%20Everyone%20-%20Coursera%20-%204ZLQEHRMFGXE.pdf)
+  * [📚 Acessar Curso](https://www.coursera.org/learn/generative-ai-for-everyone/)
 
 ## Google - Coursera
 - [GOOGLE - Design de UX - Coursera - FBCUKTT4S9NH](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20FBCUKTT4S9NH.pdf)
 - [GOOGLE - Design de UX - Coursera - HALMQHE5R4BZ](Diplomas_Cursos/01-Cousera/GOOGLE%20-%20Design%20de%20UX%20-%20Coursera%20-%20HALMQHE5R4BZ.pdf)
+  * [📚 Acessar Curso]
 
 ### IBM - Coursera
 - [IBM - Data Science - Certificado Profissional](Diplomas_Cursos/01-Cousera/IBM%20-%20Data%20Science%20-%20Coursera%20-%20RW7XNB778QZT.pdf)
@@ -106,6 +111,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [IBM - Python Project for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Python%20Project%20for%20Data%20Science%20-%20Coursera%20-%20HVSDS45U6Q9Q.pdf)
 - [IBM - Specialized Models Time Series](Diplomas_Cursos/01-Cousera/IBM%20-%20Specialized%20Models%20Time%20Series%20-%20Coursera%20-%20HWNJ6BG5TG6G.pdf)
 - [IBM - Tools for Data Science](Diplomas_Cursos/01-Cousera/IBM%20-%20Tools%20for%20Data%20Science%20-%20Coursera%20-%2039PZ4UWDKXZU.pdf)
+  * [📚 Acessar Curso]
 
 ### Microsoft
 - [Microsoft - MSSQL2073](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_MSSQL2073_Renato_Cruz.jpeg)
@@ -117,6 +123,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 ### SAS - Coursera
 - [SAS - SAS Programming](Diplomas_Cursos/01-Cousera/SAS%20-%20SAS%20Programming%20-%20Coursera%20-%20T29GHQ3ALV46.pdf)
 - [SAS - Structured Query Language](Diplomas_Cursos/01-Cousera/SAS%20-%20Structured%20Query%20Language%20-%20Coursera%20-%20EEYSKJD57GRA.pdf)
+  * [📚 Acessar Curso]
 
 ### FIAP
 - [FIAP - Big Data & Analytics](Diplomas_Cursos/06-FIAP/FIAP%20-%20Big%20Data%20&%20Analytics%20-%2062d9abab1db163f3b0b5ca93699e12b2.png)
@@ -124,6 +131,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [FIAP - Customer Experience Management](Diplomas_Cursos/06-FIAP/FIAP%20-%20Customer%20Experience%20Management%20-%20fbc8712c11bbd1e93f1c35e789cdc440.png)
 - [FIAP - Soluções Tecnológicas Emergentes](Diplomas_Cursos/06-FIAP/FIAP%20-%20Solu%C3%A7%C3%B5es%20Tecnol%C3%B3gicas%20Emergentes%20-%2072b51f5ed80ce82214f649443cd33d86.png)
 - [FIAP - User Experience](Diplomas_Cursos/06-FIAP/FIAP%20-%20User%20Experience%20-%20e1124e69f9f0f31c8e0443236f83cea2.png)
+  * [📚 Acessar Curso]
 
 ### Enap
 - [Enap - Rota_GestaoAgil](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20Rota_GestaoAgil.pdf)
@@ -137,6 +145,7 @@ Em resumo, estou comprometido em conduzir a transformação digital, impulsionan
 - [Enap - LinguagemSimples](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20LinguagemSimples.pdf)
 - [Enap - SCRUM](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20SCRUM.pdf)
 - [Enap - Ágil no contexto do serviço público](Diplomas_Cursos/04-Escola%20Nacional%20de%20Administra%C3%A7%C3%A3o%20P%C3%BAblica/Enap%20-%20%C3%81gil%20no%20contexto%20do%20servi%C3%A7o%20p%C3%BAblico.pdf)
+  * [📚 Acessar Curso]
 
 ### LinkedIn
 - [Linkedin - A Linguagem Corporal da Lideranca](Diplomas_Cursos/05-Linkedin/Linkedin%20-%20CertificadoDeConclusao_A%20Linguagem%20Corporal%20da%20Lideranca.pdf)
