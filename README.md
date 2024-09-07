@@ -34,6 +34,7 @@ O que me define não é apenas meu currículo, mas minha filosofia: acredito no 
 - **[Specialized Models: Time Series and Survival Analysis](https://www.credly.com/badges/087929fe-54dd-4eec-bbfe-b1c27417b732)**
 - **[Reinforcement Learning](https://www.coursera.org/account/accomplishments/specialization/4QWDWHPJ92U9)**
 
+* * [🎖️ Visite meu perfil no Coursera](https://www.coursera.org/learner/renatomenendes)
 ---
 
 ## 🚀 Minha Jornada Profissional
