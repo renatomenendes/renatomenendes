@@ -273,6 +273,7 @@ Para mais informações sobre minha experiência profissional, incluindo projeto
 * [🎖️ Ciencia de Dados](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%201c624d0b47ea31c4d004feb38f87fdcc.pdf)
 * [🎖️ Ciencia de Dados - Renda Variável](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Ciencia%20de%20Dados%20-%20Renda%20Vari%C3%A1vel.pdf)
 * [🎖️ Data Engineer Cloud Computing](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Data%20Engineer%20Cloud%20Computing.pdf)
+* [🎖️ Machine Learning Engineer](Diplomas_Cursos/08-XPE_IGTI/XPE_IGTI%20-%20Bootcamp%20-%20Machine%20Learning%20Engineer%20Computing.jpeg)
 
 ### Digital One Innovation
 * [🎖️ Rota Data Engineer DIO](Diplomas_Cursos/10-DIO_Digital_Innovation/Digital_One_Innovation%20-%20Rota_DataEngineer%20-%20BootCamps_DIO.pdf)
