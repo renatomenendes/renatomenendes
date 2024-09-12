@@ -4,15 +4,21 @@
 <p align="center">
 Saudações a todos,
 
-Sou Renato Cruz, e gostaria de compartilhar um pouco sobre minha trajetória e ambições no universo dos negócios e da ciência de dados.
+Olá, sou Renato Cruz!
 
-Minha formação acadêmica teve início na Universidade Presbiteriana Mackenzie, onde concluí minha graduação em Administração de Empresas. No entanto, isso foi apenas o começo. Buscando expandir meu repertório, mergulhei em pós-graduações, especializando-me em Ciência de Dados e Big Data Analytics na Estácio e, posteriormente, explorando Negócios Inteligentes e Indústria 4.0 na FIA Business School.
+Minha jornada no mundo dos negócios e da ciência de dados começou com minha graduação em Administração de Empresas pela Universidade Presbiteriana Mackenzie. Ao longo do tempo, percebi o impacto que os dados podem ter na transformação de negócios e na criação de valor estratégico. Isso me levou a buscar especializações em Ciência de Dados e Big Data Analytics pela Estácio, além de obter um MBA em Inteligência Artificial com foco em Reinforcement Learning pela Unyleya e uma Especialização pela University of Alberta.
 
-Meu compromisso com a excelência me levou a buscar certificações de renome. Sou detentor do título Green Belt Six Sigma, certificado em Pricing Strategy Optimization, e também em Data Science pela IBM/Coursera. Essas credenciais refletem minha paixão e dedicação à aprendizagem e inovação.
+Para me manter atualizado com as tendências tecnológicas, concluí cursos em instituições renomadas como Yale, Columbia e Johns Hopkins, além de obter certificações da IBM em Data Science. Também participei de bootcamps no IGTI (XP Education), com foco em Machine Learning Engineering, Ciência de Dados e Cloud Computing, aprofundando meus conhecimentos práticos nessas áreas.
 
-Durante quase duas décadas, dediquei-me a resolver desafios complexos em empresas como Oi, Serede, Grupo Contax, Azul Linhas Aéreas Brasileiras, entre outras. Em todas, concentrei-me na arquitetura e metodologia de dados, tornando-me uma peça-chave na transformação e otimização de processos.
+Sou certificado Black Belt Lean Six Sigma, capacitado para otimizar processos e liderar projetos com foco em eficiência operacional. Também obtive certificação em Pricing Strategy Optimization pela University of Virginia & BCG e ABP, o que me permitiu combinar a análise de dados com decisões estratégicas de precificação. Minhas principais ferramentas técnicas incluem Python, SAS, SQL, Power BI e Azure, que utilizo para desenvolver soluções de alto impacto.
 
-O que me define não é apenas meu currículo, mas minha filosofia: acredito no poder da inovação e da melhoria contínua. Vejo cada obstáculo como uma oportunidade, cada desafio como uma chance de crescimento.
+Ao longo da minha carreira, atuei em diversas empresas, incluindo a NTT DATA Europe & Latam, onde contribuí para projetos de transformação digital e otimização de processos por meio da integração de soluções de Data Science e Inteligência Artificial. Minha experiência me proporcionou uma visão estratégica sobre como os dados podem ser utilizados para resolver problemas complexos e gerar insights valiosos.
+
+Atualmente, como Senior Pricing Analyst na Vibra Energia, lidero projetos que combinam Data Science, Business Intelligence e Machine Learning para aprimorar as estratégias de precificação e aumentar a competitividade da empresa.
+
+Meu objetivo? Continuar crescendo como Machine Learning Engineer e líder em Data Science & Insights, liderando equipes que transformem dados complexos em soluções estratégicas. Acredito que a inovação contínua e o uso inteligente dos dados podem transformar qualquer negócio.
+
+Se você compartilha essa visão sobre o poder dos dados, adoraria conversar e colaborar em novos projetos!
 </p>
 
 ---
@@ -77,7 +83,7 @@ Para mais informações sobre minha experiência profissional, incluindo projeto
 * [🎖️ Cost and Economics in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Cost%20and%20Economics%20in%20Pricing%20Strategy%20-%20Coursera%20-%20565TSGXQVS8D.pdf)
 * [🎖️ Customer Value in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Customer%20Value%20in%20Pricing%20Strategy%20-%20Coursera%20-%20BHMRRHDAE9DS.pdf)
 * [🎖️ Market and Competition in Pricing Strategy](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Market%20and%20Competition%20in%20Pricing%20Strategy%20-%20Coursera%20-%20YM6BCMATCFVC.pdf)
-* [🎖️ ricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
+* [🎖️ Pricing Strategy in Practice](Diplomas_Cursos/01-Cousera/University%20of%20Virginia%20&%20BCG%20-%20Pricing%20Strategy%20in%20Practice%20-%20Coursera%20-%20F5453N4M8K4X.pdf)
   * [📚 Acessar Curso](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
 
 ### Johns Hopkins University - Coursera
@@ -150,7 +156,7 @@ Para mais informações sobre minha experiência profissional, incluindo projeto
 * [🎖️ TSQL2000](Diplomas_Cursos/09-Microsoft/Microsoft%20-%20CertificadoDeConclusao_TSQL2000_Renato_Cruz.jpeg)
 
 ### SAS - Coursera
-* [🎖️ AS Programming](Diplomas_Cursos/01-Cousera/SAS%20-%20SAS%20Programming%20-%20Coursera%20-%20T29GHQ3ALV46.pdf)
+* [🎖️ SAS Programming](Diplomas_Cursos/01-Cousera/SAS%20-%20SAS%20Programming%20-%20Coursera%20-%20T29GHQ3ALV46.pdf)
 * [🎖️ Structured Query Language](Diplomas_Cursos/01-Cousera/SAS%20-%20Structured%20Query%20Language%20-%20Coursera%20-%20EEYSKJD57GRA.pdf)
   * [📚 Acessar Curso]
 
