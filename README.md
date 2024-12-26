@@ -45,8 +45,11 @@ Se você compartilha essa visão sobre o poder dos dados, adoraria conversar e c
 
 ## 🚀 Minha Jornada Profissional
 
-Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, e Azul Linhas Aéreas Brasileiras. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
+Ao longo de quase duas décadas, estive à frente de iniciativas críticas em empresas de renome como Oi, Serede, Azul Linhas Aéreas Brasileiras e Vibra S/A. Minha experiência abrange desde a arquitetura de dados até a liderança de equipes em projetos de transformação digital, sempre com foco na otimização de processos e na entrega de soluções inovadoras.
 
+### Glencore Mineração | ALE Combustíveis. - Data Specialist
+- Responsável por gerenciar, transformar e interpretar dados estratégicos para o segmento B2B, com foco em inteligência comercial, otimização de processos e suporte à tomada de decisões.
+- 
 ### Vibra Energia - Senior Data Scientist
 - Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
 
