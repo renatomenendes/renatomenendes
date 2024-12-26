@@ -49,7 +49,7 @@ Ao longo de quase duas décadas, estive à frente de iniciativas críticas em em
 
 ### Glencore Mineração | ALE Combustíveis. - Data Specialist
 - Responsável por gerenciar, transformar e interpretar dados estratégicos para o segmento B2B, com foco em inteligência comercial, otimização de processos e suporte à tomada de decisões.
-- 
+
 ### Vibra Energia - Senior Data Scientist
 - Liderando a implementação de práticas data-driven e a execução de projetos transformadores, garantindo a integração eficaz de grandes volumes de dados para análises preditivas e prescritivas.
 
