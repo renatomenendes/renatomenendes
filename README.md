@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋 Bem-vindo ao Meu Perfil GitHub! 👋</h1>
-<h3 align="center">Renato Cruz - Data Science & Business Intelligence Leader</h3>
+<h3 align="center">Especialista em Atendimento (Operações & Regulação) | Estratégia de Dados e IA aplicada a CX | Governança, Analytics, Compliance e Eficiência Operacional</h3>
 
 <p align="center">
 Saudações a todos,
 
 Olá, sou Renato Cruz!
 
-Minha jornada no mundo dos negócios e da ciência de dados começou com minha graduação em Administração de Empresas pela Universidade Presbiteriana Mackenzie. Ao longo do tempo, percebi o impacto que os dados podem ter na transformação de negócios e na criação de valor estratégico. Isso me levou a buscar especializações em Ciência de Dados e Big Data Analytics pela Estácio, além de obter um MBA em Inteligência Artificial com foco em Reinforcement Learning pela Unyleya e uma Especialização pela University of Alberta.
+Operações de atendimento e regulação não toleram achismo: exigem rastreabilidade, conformidade e decisões rápidas, sustentadas por dados. É nessa interseção que atuo, conectando estratégia de dados e IA ao dia a dia de Customer Experience para elevar eficiência operacional, fortalecer compliance e dar suporte consistente à decisão executiva.
 
-Para me manter atualizado com as tendências tecnológicas, concluí cursos em instituições renomadas como Yale, Columbia e Johns Hopkins, além de obter certificações da IBM em Data Science. Também participei de bootcamps no IGTI (XP Education), com foco em Machine Learning Engineering, Ciência de Dados e Cloud Computing, aprofundando meus conhecimentos práticos nessas áreas.
+Minha base é Administração de Empresas (Universidade Presbiteriana Mackenzie) e, ao longo da trajetória, aprofundei a especialização em dados e IA com Ciência de Dados e Big Data Analytics (Estácio), MBA em Inteligência Artificial com foco em Reinforcement Learning (Unyleya) e Especialização pela University of Alberta. Para manter a visão atualizada e aplicável, concluí cursos em Yale, Columbia e Johns Hopkins, além de certificações IBM em Data Science e bootcamps no IGTI (XP Education) em Machine Learning Engineering, Ciência de Dados e Cloud Computing.
 
-Sou certificado Black Belt Lean Six Sigma, capacitado para otimizar processos e liderar projetos com foco em eficiência operacional. Também obtive certificação em Pricing Strategy Optimization pela University of Virginia & BCG e ABP, o que me permitiu combinar a análise de dados com decisões estratégicas de precificação. Minhas principais ferramentas técnicas incluem Python, SAS, SQL, Power BI e Azure, que utilizo para desenvolver soluções de alto impacto.
+Na prática, uno método e execução:
 
-Ao longo da minha carreira, atuei em diversas empresas, incluindo a NTT DATA Europe & Latam, onde contribuí para projetos de transformação digital e otimização de processos por meio da integração de soluções de Data Science e Inteligência Artificial. Minha experiência me proporcionou uma visão estratégica sobre como os dados podem ser utilizados para resolver problemas complexos e gerar insights valiosos.
+Estratégia de dados e analytics aplicada a CX, com governança e padronização para sustentar decisões
 
-Atualmente, como Senior Pricing Analyst na Vibra Energia, lidero projetos que combinam Data Science, Business Intelligence e Machine Learning para aprimorar as estratégias de precificação e aumentar a competitividade da empresa.
+Eficiência operacional com disciplina de melhoria contínua (Black Belt Lean Six Sigma)
 
-Meu objetivo? Continuar crescendo como Machine Learning Engineer e líder em Data Science & Insights, liderando equipes que transformem dados complexos em soluções estratégicas. Acredito que a inovação contínua e o uso inteligente dos dados podem transformar qualquer negócio.
+Construção de soluções analíticas com Python, SAS, SQL, Power BI e Azure, priorizando clareza, controle e escalabilidade
 
-Se você compartilha essa visão sobre o poder dos dados, adoraria conversar e colaborar em novos projetos!
+Meu repertório inclui transformação digital e otimização de processos na NTT DATA Europe & Latam, integrando Data Science e IA para resolver problemas operacionais. Também trago experiência em precificação como Senior Pricing Analyst na Vibra Energia, liderando iniciativas que combinavam Data Science, BI e Machine Learning para evolução de estratégias de pricing e competitividade. Esse conjunto fortalece minha capacidade de traduzir dados em decisões sob pressão, com rigor e direcionamento de negócio.
+
+Direção profissional: evoluir como Machine Learning Engineer e liderança em Data Science & Insights, aplicando dados e IA para transformar complexidade operacional em soluções estratégicas e utilizáveis.
+
+Se fizer sentido trocar ideias sobre dados aplicados a CX, governança, compliance e eficiência operacional, estou aberto a conversas e colaborações.
 </p>
 
 ---
