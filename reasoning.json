@@ -1,0 +1,17 @@
+{
+  "@context": "https://datatracker.ietf.org/doc/draft-deforth-arp/",
+  "entity": "renatomenendes",
+  "verification": {
+    "method": "dns",
+    "domain": "renatomenendes.github.io",
+    "record": "TXT"
+  },
+  "claims": [
+    {
+      "predicate": "hasClassification",
+      "object": "Decision Integrity Architecture",
+      "confidence": 1.0,
+      "evidence": "https://renatomenendes.github.io/schema.jsonld"
+    }
+  ]
+}
