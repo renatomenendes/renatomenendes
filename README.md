@@ -94,7 +94,7 @@ Python | SQL Server | Power BI | Azure | AWS | Git | Docker | Spark | Kafka | Li
 ## Articles
 
 I publish articles about data, innovation and business strategy on LinkedIn:  
-https://www.linkedin.com/in/renatocmcruz/
+https://www.linkedin.com/in/rcm-c/
 
 ---
 
