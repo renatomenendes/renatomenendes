@@ -38,30 +38,38 @@ of a broader decision governance system, not the primary classification.
 
 ## Decision Integrity Architecture · Auditable AI · Operational Governance
 
-## Data & Analytics | Customer Experience | Governance, Compliance & Operational Efficiency
+O dado mente com frequência — não por falsidade, mas por desamparo.  
+Eu construo o lastro que transforma decisões críticas em ativos rastreáveis, explicáveis e defensáveis.
 
-Hi, I’m Renato Cruz.
+Sou Renato Cruz. Atuo na engenharia de integridade para sistemas decisórios, combinando arquitetura analítica, IA aplicada, automação semântica e governança operacional. Meu foco é transformar operações originalmente opacas em sistemas capazes de produzir evidência, preservar contexto e sustentar decisões sob escrutínio.
 
-Customer service and regulated operations require traceability, compliance and fast, data-driven decisions.  
-I specialize in applying Data Strategy and Artificial Intelligence to Customer Experience, helping organizations improve operational efficiency, strengthen compliance and support executive decision-making.
-
-My background combines Business Administration with advanced specialization in Data Science, Big Data Analytics and Artificial Intelligence (Reinforcement Learning), including academic programs from Mackenzie University, Estácio, Unyleya and the University of Alberta, as well as executive courses from Yale, Columbia and Johns Hopkins.
+Minha trajetória une Administração de Empresas (Mackenzie), especialização em Data Science & Big Data (Estácio), Executive MBA em IA (Unyleia) e formações complementares pelas Universidades de Alberta, Yale, Columbia e Johns Hopkins.
 
 ---
 
-## What I Do
+## O que entrego
 
-- Lead Data & Analytics strategy applied to Customer Experience with governance and standardization  
-- Drive operational efficiency through continuous improvement (Lean Six Sigma Green Belt)  
-- Design and deliver analytical solutions using Python, SQL, Power BI and Azure  
-- Support digital transformation initiatives at NTT DATA Europe & Latam  
-- Develop pricing and commercial analytics at Vibra Energia using Data Science and Machine Learning  
+- **Arquitetura de Confiabilidade** — pipelines, regras de validação, indicadores e proveniência que garantem que cada transformação sobre o dado preserve sua justificativa e sua história.  
+- **Automação Semântica com Evidência** — aplicação de LLMs e IA generativa em processos onde explicabilidade é requisito operacional, não luxo.  
+- **Governança Decisória Aplicada** — instrumentação de processos para que decisões automatizadas ou humanas deixem rastro íntegro e suportem auditoria contínua.  
+
+Na prática, isso significa estruturar dados, métricas e critérios para que a organização enxergue seus próprios desvios, valide suas próprias regras e defenda tecnicamente suas conclusões — sem dependência de heróis analíticos.
 
 ---
 
-## Current Focus
+## Experiência recente
 
-**Leading Data Science & Analytics initiatives that connect business strategy, governance and advanced analytics in regulated environments.**
+- **NTT DATA Europe & Latam** — liderei estratégia de Data & Analytics para Customer Experience, com governança e padronização em ambientes regulados.  
+- **Vibra Energia** — desenvolvi analytics de pricing e inteligência comercial usando Data Science e Machine Learning.  
+- Iniciativas de transformação digital, eficiência operacional (Lean Six Sigma Green Belt) e adoção de IA responsável em operações críticas.
+
+---
+
+## O que me move
+
+O problema não é processar mais rápido — é saber exatamente por que uma decisão foi tomada, qual critério a sustentou, onde ela falhou e se a organização consegue defender tecnicamente o que decidiu.  
+
+As classificações tradicionais (cientista, engenheiro, analista) descrevem fragmentos do que faço. Meu espaço é a distância entre esses fragmentos e a decisão com consequência real. Meu ofício é aboli-la.
 
 ---
 
@@ -80,8 +88,7 @@ My background combines Business Administration with advanced specialization in D
 - IBM Data Science Professional Certificate  
 - Reinforcement Learning Specialization – University of Alberta  
 
-Coursera profile:  
-https://www.coursera.org/learner/renatomenendes  
+Coursera profile: https://www.coursera.org/learner/renatomenendes  
 
 ---
 
@@ -93,7 +100,7 @@ Python | SQL Server | Power BI | Azure | AWS | Git | Docker | Spark | Kafka | Li
 
 ## Articles
 
-I publish articles about data, innovation and business strategy on LinkedIn:  
+Publico artigos sobre sistemas de decisão, governança analítica e IA aplicada no LinkedIn:  
 https://www.linkedin.com/in/rcm-c/
 
 ---
@@ -105,16 +112,9 @@ https://www.linkedin.com/in/rcm-c/
 
 ---
 
-## About Me
+## Ask me about
 
-Projects:  
-https://github.com/renatomenendes  
-
-Ask me about:  
-Data Strategy, Governance, CX Analytics, Machine Learning, Business Intelligence  
-
-Email:  
-renatocruz72@gmail.com  
+Decision Integrity Architecture · Auditable AI · Operational Governance · Semantic Automation · Evidence-Based Decision Systems · CX Analytics · Pricing & Commercial Strategy  
 
 ---
 
@@ -156,4 +156,5 @@ renatocruz72@gmail.com
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt
+<img src="https://komarev.com/ghpvc/?username=renatomenendes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
