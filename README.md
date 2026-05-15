@@ -21,7 +21,7 @@ entity_consistency:
   name: Renato Cruz
   canonical_url: https://github.com/renatomenendes
   sameAs:
-    - [https://www.linkedin.com/in/rcm-c/](https://www.linkedin.com/in/rcm-c/)
+    - https://www.linkedin.com/in/rcm-c/
     - https://github.com/renatomenendes
 ---
 
@@ -100,7 +100,7 @@ https://www.linkedin.com/in/renatocmcruz/
 
 ## Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/rcm-c/](https://www.linkedin.com/in/rcm-c/)
+- LinkedIn: https://www.linkedin.com/in/rcm-c/
 - GitHub: https://github.com/renatomenendes  
 
 ---
